@@ -1,1 +1,1 @@
-# AlsoGreat
+# scDataCuration
