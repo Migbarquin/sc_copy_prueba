@@ -1,5 +1,23 @@
 # scDataCuration
 
+## Set up conda environment
+
+To find packages we want to install, we can check which Conda packages are available in 
+https://anaconda.org/.
+
+```
+conda create -n scdatacuration
+
+conda activate scdatacuration
+
+```
+
+If you want to install the environment including already all dependencies simply run:
+
+```
+conda create -n scdatacuration -f dependencies.yml
+```
+
 ## PanglaoDB
 
 Process to download PanglaoDB data and raw data
@@ -12,11 +30,6 @@ Process to download PanglaoDB data and raw data
 
 How we install everything so that it is running...
 
-## Set up conda environment
-
-```
-conda env create -n scdatacuration -f dependencies.yml
-```
 
 ## Activate the "vir" environment on the shared compute cluster
 ```
