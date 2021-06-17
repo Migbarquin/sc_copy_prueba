@@ -2,7 +2,7 @@
 
 ## Set up conda environment from scratch
 
-To find packages we want to install, we can check which Conda packages are available in 
+To find packages we want to install, we can check which Conda packages are available in
 https://anaconda.org/.
 
 Create the environment named scdatacuration:
@@ -70,3 +70,4 @@ jupyter notebook
 ```
 Select `Python (vir)` as the kernel.
 
+#17.06.2021 Working with Git. 
