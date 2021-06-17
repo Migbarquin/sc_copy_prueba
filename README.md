@@ -69,10 +69,3 @@ python -m ipykernel install --user --name vir --display-name "Python (vir)"
 jupyter notebook
 ```
 Select `Python (vir)` as the kernel.
-
-#Learning, 1.2.3
-##17.06.2021 Working with Git.
-
-```
-Hello hello
-```
