@@ -1,16 +1,42 @@
 # scDataCuration
 
-## Set up conda environment
+## Set up conda environment from scratch
 
 To find packages we want to install, we can check which Conda packages are available in 
 https://anaconda.org/.
 
+Create the environment named scdatacuration:
+
 ```
 conda create -n scdatacuration
 
-conda activate scdatacuration
+```
+
+Activate the environment:
 
 ```
+conda activate scdatacuration
+```
+
+Now you can install packages (here pandas):
+
+```
+conda install -c conda-forge pandas
+```
+
+Deactivate the environment:
+
+```
+conda deactivate
+```
+
+Export the software currently installed in the environment named scdatacuration into the dependency files.
+
+```
+conda env export --name scdatacuration > dependencies.yml
+```
+
+## Set up conda environment from dependencies.yml
 
 If you want to install the environment including already all dependencies simply run:
 
