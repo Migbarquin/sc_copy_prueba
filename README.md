@@ -1,5 +1,12 @@
 # scDataCuration
 
+## PanglaoDB
+
+Process to download PanglaoDB data and raw data
+
+1. Create the folder and place inside the file py_obtain_tsv.py
+2. Run Panglao_obtain_tsv.sh
+
 ## Installing the Jupyter Notebook envirnoment
 
 How we install everything so that it is running...
