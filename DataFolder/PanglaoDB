@@ -1,0 +1,1368 @@
+SRA accession	SRS accession	Tissue origin of the sample	scRNA-seq protocol	Species	Sequencing instrument	Number of expressed genes	Median number of expressed genes per cell	Number of cell clusters in this sample	Is the sample from a tumor? (1 true otherwise false)	Is the sample from primary adult tissue?	Is the sample from a cell line?	Number of cells
+SRA599311	SRS2431649	Mesenteric	10x chromium	Mus musculus	Illumina HiSeq 2500	21948	1249	12	0	1	0	1352
+SRA611700	SRS2532370	Subcortex	10x chromium	Mus musculus	Illumina HiSeq 2500	29691	1979	17	\N	\N	\N	8150
+SRA605557	SRS2493625	Cd14+ monocytes	10x chromium	Homo sapiens	Illumina HiSeq 2500	17438	1293	3	0	1	0	390
+SRA508949	SRS1876783	Small intestine	10x chromium	Mus musculus	NextSeq 500	18383	2543	8	0	1	0	676
+SRA711898	SRS3349280	Tonsil	10x chromium	Homo sapiens	Illumina HiSeq 2500	28726	1777	15	0	1	0	3328
+SRA553822	SRS2119548	Cultured embryonic stem cells	10x chromium	Homo sapiens	NextSeq 500	24738	516	41	\N	\N	0	6182
+SRA611700	SRS2532373	Subcortex	10x chromium	Mus musculus	Illumina HiSeq 2500	25198	895	18	\N	\N	\N	4162
+SRA605557	SRS2493626	Cd14+ monocytes	10x chromium	Homo sapiens	Illumina HiSeq 2500	17194	1258	3	0	1	0	390
+SRA611700	SRS2532369	Cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	28725	1602	18	\N	\N	\N	8378
+SRA608611	SRS2517317	Lung progenitors	10x chromium	Homo sapiens	NextSeq 500	29057	3631	8	0	1	0	861
+SRA678017	SRS3112005	Embryonic kidney cortex	10x chromium	Homo sapiens	NextSeq 500	31220	1810	14	\N	\N	\N	4020
+SRA670243	SRS3078084	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27496	1572	23	\N	\N	\N	5326
+SRA571721	SRS2259441	Bone marrow stem cells	10x chromium	Mus musculus	Illumina HiSeq 2500	19943	1295	6	0	1	0	3106
+SRA571721	SRS2259442	Bone marrow stem cells	10x chromium	Mus musculus	Illumina HiSeq 2500	20966	1603	10	0	1	0	4340
+SRA611700	SRS2532367	Caudal ganglionic eminence	10x chromium	Mus musculus	Illumina HiSeq 2500	29087	2218	21	\N	\N	\N	7168
+SRA644036	SRS2808714	Cervical and lumbar spinal cord	10x chromium	Mus musculus	Illumina HiSeq 4000	27417	3746	11	\N	\N	\N	974
+SRA508949	SRS1876784	Small intestine	10x chromium	Mus musculus	NextSeq 500	19488	2414	8	0	1	0	983
+SRA689041	SRS3166675	Colon	10x chromium	Mus musculus	Illumina HiSeq 2500	22408	777	18	0	1	0	2735
+SRA611700	SRS2532368	Medial ganglionic eminence	10x chromium	Mus musculus	Illumina HiSeq 2500	28313	2094	19	\N	\N	\N	6509
+SRA570744	SRS2253536	Lung mesenchyme	10x chromium	Mus musculus	NextSeq 500	22996	1139	7	0	1	0	4383
+SRA678017	SRS3112006	Embryonic kidney cortex	10x chromium	Homo sapiens	NextSeq 500	31493	1791	20	\N	\N	\N	3610
+SRA608611	SRS2517316	Lung progenitors	10x chromium	Homo sapiens	NextSeq 500	29944	3983	10	0	1	0	1023
+SRA611700	SRS2532371	Cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	29593	1299	29	\N	\N	\N	6264
+SRA599311	SRS2431648	Mesenteric	10x chromium	Mus musculus	Illumina HiSeq 2500	22751	1221	15	0	1	0	1522
+SRA598936	SRS2428405	Kidney cortex	10x chromium	Homo sapiens	NextSeq 500	29498	1293	16	\N	\N	\N	3573
+SRA508949	SRS1876792	Small intestine	10x chromium	Mus musculus	NextSeq 500	20478	2569	8	0	1	0	1358
+SRA550869	SRS2093772	Aortic leukocytes	10x chromium	Mus musculus	Illumina HiSeq 2500	18276	997	10	0	1	0	972
+SRA508949	SRS1876796	Small intestine	10x chromium	Mus musculus	NextSeq 500	19515	2514	9	0	1	0	867
+SRA508949	SRS1876786	Small intestine	10x chromium	Mus musculus	NextSeq 500	17308	2544	6	0	1	0	557
+SRA508949	SRS1876785	Small intestine	10x chromium	Mus musculus	NextSeq 500	15940	2397	6	0	1	0	372
+SRA508949	SRS1876789	Small intestine	10x chromium	Mus musculus	NextSeq 500	16990	1830	8	0	1	0	607
+SRA508949	SRS1876793	Small intestine	10x chromium	Mus musculus	NextSeq 500	20696	2930	9	0	1	0	1289
+SRA550869	SRS2747908	Aortic leukocytes	10x chromium	Mus musculus	Illumina HiSeq 2500	19014	1572	8	0	1	0	378
+SRA508949	SRS1876795	Small intestine	10x chromium	Mus musculus	NextSeq 500	19869	2441	10	0	1	0	1072
+SRA550869	SRS2747909	Aortic leukocytes	10x chromium	Mus musculus	Illumina HiSeq 2500	20895	1781	17	0	1	0	1036
+SRA508949	SRS1876787	Small intestine	10x chromium	Mus musculus	NextSeq 500	17256	2583	5	0	1	0	563
+SRA578634	SRS2302658	Subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 2500	18251	1510	3	0	1	0	202
+SRA508949	SRS1876790	Small intestine	10x chromium	Mus musculus	NextSeq 500	19139	1884	11	0	1	0	1255
+SRA508949	SRS1876794	Small intestine	10x chromium	Mus musculus	NextSeq 500	20369	2769	8	0	1	0	1156
+SRA508949	SRS1876788	Small intestine	10x chromium	Mus musculus	NextSeq 500	18051	2650	7	0	1	0	717
+SRA508949	SRS1876791	Small intestine	10x chromium	Mus musculus	NextSeq 500	20437	2663	8	0	1	0	1244
+SRA578634	SRS2302660	Subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 2500	22525	1250	8	0	1	0	1024
+SRA578634	SRS2302659	Subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 2500	19326	1534	3	0	1	0	234
+SRA593403	SRS2392270	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	19879	1276	10	0	1	0	477
+SRA593403	SRS2392264	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	20190	1285	9	0	1	0	1036
+SRA709693	SRS3331501	Bone marrow	10x chromium	Mus musculus	NextSeq 500	21947	2913	9	0	1	0	1773
+SRA593403	SRS2392265	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	20145	1336	10	0	1	0	691
+SRA593403	SRS2392267	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	19875	927	8	0	1	0	460
+SRA593403	SRS2392266	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	18844	1386	10	0	1	0	641
+SRA593403	SRS2392269	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	23388	1143	20	0	1	0	1275
+SRA593403	SRS2392268	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	20436	784	12	0	1	0	639
+SRA695134	SRS3218229	Alveolar rhabdomyosarcoma	10x chromium	Homo sapiens	Illumina HiSeq 4000	33629	3693	17	1	\N	1	8543
+SRA709693	SRS3331504	Bone marrow	10x chromium	Mus musculus	NextSeq 500	19636	3526	4	0	1	0	315
+SRA709693	SRS3331503	Bone marrow	10x chromium	Mus musculus	NextSeq 500	19858	1291	7	0	1	0	1634
+SRA593403	SRS2392271	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	16560	1263	4	0	1	0	206
+SRA550660	SRS2089635	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	19062	526	5	0	1	0	1772
+SRA593403	SRS2392272	Trigeminal neurons	drop-seq	Mus musculus	Illumina MiSeq	21470	1095	10	0	1	0	532
+SRA550660	SRS2089638	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	19088	545	7	0	1	0	1728
+SRA550660	SRS2089639	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	24429	621	15	0	1	0	10404
+SRA638923	SRS2758459	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	14098	708	6	0	1	0	397
+SRA638923	SRS2797051	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	20113	871	7	\N	\N	1	4093
+SRA638923	SRS2797052	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	18378	819	7	\N	\N	1	2232
+SRA638923	SRS2797047	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	18477	848	13	0	1	0	5246
+SRA638923	SRS2797054	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	19908	838	9	\N	\N	1	3415
+SRA638923	SRS2797040	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	12364	889	4	0	1	0	171
+SRA638923	SRS2797046	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	18162	834	14	0	1	0	3229
+SRA638923	SRS2797044	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	16413	860	12	0	1	0	2480
+SRA550660	SRS2089637	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	24910	622	15	0	1	0	9792
+SRA638923	SRS2758454	Bladder	microwell-seq	Mus musculus	Illumina HiSeq 2500	18938	1004	10	0	1	0	1880
+SRA638923	SRS2797057	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	17102	1642	4	\N	\N	0	593
+SRA638923	SRS2797056	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	14061	749	7	\N	\N	0	383
+SRA638923	SRS2797055	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	20378	865	7	\N	\N	1	3594
+SRA638923	SRS2758458	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	10167	704	2	0	1	0	102
+SRA638923	SRS2797045	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	13378	716	6	0	1	0	731
+SRA638923	SRS2797048	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	14221	742	6	0	1	0	1368
+SRA638923	SRS2797043	Bone marrow	microwell-seq	Mus musculus	Illumina HiSeq 2500	12289	703	5	0	1	0	484
+SRA550660	SRS2089636	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	18251	517	6	0	1	0	1503
+SRA638923	SRS2797049	Brain	microwell-seq	Mus musculus	Illumina HiSeq 2500	14984	875	5	0	1	0	508
+SRA638923	SRS2797053	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	21258	1017	10	\N	\N	1	4608
+SRA638923	SRS2797092	Muscle	microwell-seq	Mus musculus	Illumina HiSeq 2500	16788	721	14	\N	\N	0	864
+SRA638923	SRS2797104	Blood	microwell-seq	Mus musculus	Illumina HiSeq 2500	11948	686	2	0	1	0	354
+SRA638923	SRS2797094	Rib	microwell-seq	Mus musculus	Illumina HiSeq 2500	15553	759	6	\N	\N	0	636
+SRA638923	SRS2797118	Testis	microwell-seq	Mus musculus	Illumina HiSeq 2500	24572	1454	11	0	1	0	1773
+SRA638923	SRS2797058	Fetal brain	microwell-seq	Mus musculus	Illumina HiSeq 2500	12702	799	3	\N	\N	0	231
+SRA638923	SRS2797120	Thymus	microwell-seq	Mus musculus	Illumina HiSeq 2500	12136	834	3	0	1	0	223
+SRA638923	SRS2797114	Small intestine	microwell-seq	Mus musculus	Illumina HiSeq 2500	13044	795	6	0	1	0	427
+SRA638923	SRS2797112	Small intestine	microwell-seq	Mus musculus	Illumina HiSeq 2500	17853	909	14	0	1	0	1150
+SRA638923	SRS2797110	Placenta	microwell-seq	Mus musculus	Illumina HiSeq 2500	15559	797	12	\N	\N	0	778
+SRA638923	SRS2797073	Lung	microwell-seq	Mus musculus	Illumina HiSeq 2500	17175	725	10	0	1	0	903
+SRA638923	SRS2797059	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	16997	751	5	\N	\N	1	2158
+SRA638923	SRS2797105	Blood	microwell-seq	Mus musculus	Illumina HiSeq 2500	14179	763	8	0	1	0	810
+SRA638923	SRS2797061	Fetal kidney	microwell-seq	Mus musculus	Illumina HiSeq 2500	16322	754	8	\N	\N	0	1385
+SRA638923	SRS2797078	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	17941	876	10	0	1	0	1181
+SRA638923	SRS2797079	Lung	microwell-seq	Mus musculus	Illumina HiSeq 2500	16347	679	9	0	1	0	732
+SRA638923	SRS2797072	Lung	microwell-seq	Mus musculus	Illumina HiSeq 2500	15850	744	7	0	1	0	484
+SRA638923	SRS2797089	Calvaria	microwell-seq	Mus musculus	Illumina HiSeq 2500	12979	638	3	\N	\N	0	352
+SRA638923	SRS2797097	Rib	microwell-seq	Mus musculus	Illumina HiSeq 2500	12282	707	3	\N	\N	0	216
+SRA638923	SRS2797109	Placenta	microwell-seq	Mus musculus	Illumina HiSeq 2500	14907	784	7	\N	\N	0	521
+SRA638923	SRS2797076	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	13655	752	5	0	1	0	460
+SRA638923	SRS2797069	Kidney	microwell-seq	Mus musculus	Illumina HiSeq 2500	14018	1047	4	0	1	0	311
+SRA638923	SRS2797116	Spleen	microwell-seq	Mus musculus	Illumina HiSeq 2500	13816	759	5	0	1	0	422
+SRA638923	SRS2797077	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	12984	763	3	0	1	0	275
+SRA638923	SRS2797103	Pancreas	microwell-seq	Mus musculus	Illumina HiSeq 2500	17333	855	9	0	1	0	798
+SRA638923	SRS2797060	Fetal intestine	microwell-seq	Mus musculus	Illumina HiSeq 2500	14977	752	7	0	\N	0	654
+SRA638923	SRS2797088	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	11161	686	3	0	1	0	144
+SRA638923	SRS2797085	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	15129	805	9	0	1	0	485
+SRA638923	SRS2797068	Fetal stomach	microwell-seq	Mus musculus	Illumina HiSeq 2500	11714	708	3	\N	\N	0	244
+SRA638923	SRS2797074	Liver	microwell-seq	Mus musculus	Illumina HiSeq 2500	14488	765	5	0	1	0	567
+SRA638923	SRS2797090	Calvaria	microwell-seq	Mus musculus	Illumina HiSeq 2500	15464	693	7	\N	\N	0	666
+SRA638923	SRS2797067	Fetal lung	microwell-seq	Mus musculus	Illumina HiSeq 2500	13756	714	5	\N	\N	0	558
+SRA638923	SRS2797084	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	15058	811	7	0	1	0	333
+SRA638923	SRS2797117	Testis	microwell-seq	Mus musculus	Illumina HiSeq 2500	25968	949	14	0	1	0	7330
+SRA638923	SRS2797113	Small intestine	microwell-seq	Mus musculus	Illumina HiSeq 2500	13215	795	6	0	1	0	446
+SRA638923	SRS2797115	Stomach	microwell-seq	Mus musculus	Illumina HiSeq 2500	17253	901	12	0	1	0	1944
+SRA638923	SRS2797082	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	16621	795	6	0	1	0	1508
+SRA638923	SRS2797086	Mesenchymal stem cell	microwell-seq	Mus musculus	Illumina HiSeq 2500	15453	867	13	0	1	0	2565
+SRA638923	SRS2797095	Rib	microwell-seq	Mus musculus	Illumina HiSeq 2500	18233	803	10	\N	\N	0	1137
+SRA638923	SRS2797062	Fetal gonad	microwell-seq	Mus musculus	Illumina HiSeq 2500	16685	757	6	\N	\N	0	1374
+SRA638923	SRS2797071	Kidney	microwell-seq	Mus musculus	Illumina HiSeq 2500	16200	707	13	0	1	0	1142
+SRA638923	SRS2797087	Muscle	microwell-seq	Mus musculus	Illumina HiSeq 2500	12432	788	6	0	1	0	276
+SRA638923	SRS2797096	Skin	microwell-seq	Mus musculus	Illumina HiSeq 2500	16799	744	10	\N	\N	0	981
+SRA638923	SRS2797066	Fetal liver	microwell-seq	Mus musculus	Illumina HiSeq 2500	14165	829	7	\N	\N	0	1463
+SRA638923	SRS2797064	Fetal kidney	microwell-seq	Mus musculus	Illumina HiSeq 2500	15240	799	7	\N	\N	0	773
+SRA638923	SRS2797100	Ovary	microwell-seq	Mus musculus	Illumina HiSeq 2500	18762	1125	10	0	1	0	1568
+SRA638923	SRS2797119	Trophoblast	microwell-seq	Mus musculus	Illumina HiSeq 2500	17212	816	12	\N	\N	0	2777
+SRA638923	SRS2797093	Muscle	microwell-seq	Mus musculus	Illumina HiSeq 2500	12854	699	4	\N	\N	0	207
+SRA638923	SRS2797111	Small intestine	microwell-seq	Mus musculus	Illumina HiSeq 2500	10593	672	3	0	1	0	230
+SRA638923	SRS2797101	Ovary	microwell-seq	Mus musculus	Illumina HiSeq 2500	11657	780	3	0	1	0	196
+SRA638923	SRS2797070	Fetal gonad	microwell-seq	Mus musculus	Illumina HiSeq 2500	15129	792	6	\N	\N	0	655
+SRA667466	SRS3059959	Cerebellum	10x chromium	Mus musculus	Illumina HiSeq 2500	22473	1017	10	\N	\N	0	1720
+SRA638923	SRS2797122	Uterus	microwell-seq	Mus musculus	Illumina HiSeq 2500	18549	1005	6	0	1	0	1323
+SRA667466	SRS3059949	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	21687	1144	9	0	1	0	849
+SRA667466	SRS3059956	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	26737	1600	19	\N	\N	0	3278
+SRA667466	SRS3059942	Dorsal root ganglion	10x chromium	Mus musculus	Illumina HiSeq 2500	26110	1137	15	0	1	0	3633
+SRA667466	SRS3059953	Hippocampus	10x chromium	Mus musculus	Illumina HiSeq 2500	26711	1196	19	\N	\N	0	4700
+SRA667466	SRS3059954	Hippocampus	10x chromium	Mus musculus	Illumina HiSeq 2500	27216	1278	19	\N	\N	0	4817
+SRA667466	SRS3059957	Dorsal striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	26014	1523	17	\N	\N	0	3346
+SRA667466	SRS3059951	Ventral striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	21227	895	7	\N	\N	0	1065
+SRA667466	SRS3059952	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	22339	950	8	\N	\N	0	1555
+SRA667466	SRS3059955	Dorsal striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	25618	1439	16	\N	\N	0	3273
+SRA667466	SRS3059943	Ventral striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	18598	878	8	\N	\N	0	556
+SRA667466	SRS3059945	Dentate gyrus	10x chromium	Mus musculus	Illumina HiSeq 2500	25082	1245	16	\N	\N	0	2908
+SRA667466	SRS3059961	Ventral striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	28278	1305	29	\N	\N	0	7404
+SRA667466	SRS3059944	Hippocampus (ca1)	10x chromium	Mus musculus	Illumina HiSeq 2500	26450	2376	18	0	1	0	2335
+SRA667466	SRS3059948	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	24789	1617	12	0	1	0	2060
+SRA638923	SRS2797121	Thymus	microwell-seq	Mus musculus	Illumina HiSeq 2500	14040	966	4	0	1	0	649
+SRA667466	SRS3059946	Hippocampus (ca1)	10x chromium	Mus musculus	Illumina HiSeq 2500	25553	2115	18	0	1	0	2230
+SRA638923	SRS2797296	Mammary gland	microwell-seq	Mus musculus	Illumina HiSeq 2500	16475	773	7	0	1	0	1534
+SRA667466	SRS3059958	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	26486	1566	21	\N	\N	0	3057
+SRA638923	SRS2853890	Embryo	microwell-seq	Mus musculus	Illumina HiSeq 2500	18957	2031	5	\N	\N	1	779
+SRA667466	SRS3059960	Cerebellum	10x chromium	Mus musculus	Illumina HiSeq 2500	20048	920	6	\N	\N	0	613
+SRA638923	SRS2960038	Pancreas	microwell-seq	Mus musculus	Illumina HiSeq 2500	16909	818	12	\N	\N	0	1850
+SRA667466	SRS3059947	Dentate gyrus	10x chromium	Mus musculus	Illumina HiSeq 2500	26172	1552	15	\N	\N	0	3283
+SRA667466	SRS3059941	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	26597	1763	22	0	1	0	4164
+SRA667466	SRS3059950	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	27385	1620	21	\N	\N	0	4089
+SRA638923	SRS2960034	Pancreas	microwell-seq	Mus musculus	Illumina HiSeq 2500	15491	742	6	\N	\N	0	895
+SRA667466	SRS3059966	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	22339	1176	10	\N	\N	0	1796
+SRA667466	SRS3059971	Hippocampus (ca1)	10x chromium	Mus musculus	Illumina HiSeq 2500	23612	1180	8	0	1	0	1118
+SRA667466	SRS3059976	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27848	1190	23	\N	\N	0	8564
+SRA667466	SRS3059997	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	27667	1239	16	\N	\N	0	7449
+SRA667466	SRS3059984	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	25321	1257	17	\N	\N	0	3986
+SRA667466	SRS3059987	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	25509	1321	11	\N	\N	0	2261
+SRA667466	SRS3059977	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	25412	1304	16	\N	\N	0	3053
+SRA667466	SRS3059998	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	27917	1812	20	\N	\N	0	3825
+SRA667466	SRS3060001	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	26840	1505	19	\N	\N	0	3424
+SRA667466	SRS3059988	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	27209	1437	21	\N	\N	0	6106
+SRA667466	SRS3059982	Cerebellum	10x chromium	Mus musculus	Illumina HiSeq 2500	20801	874	12	\N	\N	0	1187
+SRA667466	SRS3059974	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	27553	1453	15	\N	\N	0	5375
+SRA667466	SRS3059969	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	24203	1107	12	\N	\N	0	2878
+SRA667466	SRS3059993	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	27817	1257	22	\N	\N	0	7260
+SRA667466	SRS3059994	Dorsal root ganglion	10x chromium	Mus musculus	Illumina HiSeq 2500	24422	1057	18	\N	\N	0	3259
+SRA667466	SRS3059965	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	22533	1035	6	\N	\N	0	1336
+SRA667466	SRS3059991	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	27605	1479	22	\N	\N	0	6500
+SRA667466	SRS3059992	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	27718	1287	18	\N	\N	0	7750
+SRA667466	SRS3059983	Cerebellum	10x chromium	Mus musculus	Illumina HiSeq 2500	18047	758	9	\N	\N	0	567
+SRA667466	SRS3059972	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	24161	1451	11	\N	\N	0	1088
+SRA667466	SRS3059989	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	27093	1381	17	\N	\N	0	5934
+SRA667466	SRS3059968	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	20147	956	4	\N	\N	0	932
+SRA667466	SRS3059980	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	27695	1793	19	\N	\N	0	3793
+SRA667466	SRS3060003	Olfactory bulb?	10x chromium	Mus musculus	Illumina HiSeq 2500	26494	1003	19	\N	\N	0	4646
+SRA667466	SRS3059985	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	26125	1419	18	\N	\N	0	3753
+SRA667466	SRS3059981	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	26808	1880	15	\N	\N	0	2256
+SRA667466	SRS3059973	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27574	1308	20	\N	\N	0	6173
+SRA667466	SRS3059970	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	26938	2284	15	\N	\N	0	1875
+SRA667466	SRS3059979	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	26437	1466	20	\N	\N	0	4445
+SRA667466	SRS3059964	Neo-cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	24812	1506	15	\N	\N	0	2342
+SRA667466	SRS3059995	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	28150	1303	18	\N	\N	0	7765
+SRA667466	SRS3060000	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	23688	1195	13	\N	\N	0	1602
+SRA667466	SRS3059986	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	25446	1170	11	\N	\N	0	2715
+SRA667466	SRS3059975	Dorsal striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	24348	1480	13	\N	\N	0	2027
+SRA667466	SRS3059978	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	20310	895	10	\N	\N	0	1926
+SRA667466	SRS3059990	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	26752	1406	20	\N	\N	0	5636
+SRA667466	SRS3060002	Olfactory bulb?	10x chromium	Mus musculus	Illumina HiSeq 2500	26704	1033	16	\N	\N	0	4810
+SRA667466	SRS3059963	Hippocampus (ca1)	10x chromium	Mus musculus	Illumina HiSeq 2500	23614	1165	9	\N	\N	0	1154
+SRA667466	SRS3059996	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27505	1400	19	\N	\N	0	5834
+SRA667466	SRS3059967	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	24192	1122	12	\N	\N	0	2621
+SRA667466	SRS3059999	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	27989	1794	22	\N	\N	0	4022
+SRA667466	SRS3060034	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	22112	994	7	\N	\N	0	1171
+SRA667466	SRS3060027	Dorsal striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	24355	1648	14	\N	\N	0	2041
+SRA667466	SRS3060008	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27963	1681	19	\N	\N	0	4982
+SRA667466	SRS3060029	Cortex 1	10x chromium	Mus musculus	Illumina HiSeq 2500	25077	1583	15	\N	\N	0	2933
+SRA667466	SRS3060005	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	22132	1229	8	\N	\N	0	773
+SRA667466	SRS3060032	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	19027	1005	9	\N	\N	0	755
+SRA667466	SRS3060024	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	28007	1458	18	\N	\N	0	5403
+SRA667466	SRS3060022	Cortex 1	10x chromium	Mus musculus	Illumina HiSeq 2500	25718	1296	21	\N	\N	0	4195
+SRA667466	SRS3060023	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	28233	1491	16	\N	\N	0	5518
+SRA667466	SRS3060013	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	20759	853	8	\N	\N	0	1509
+SRA667466	SRS3060031	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	22591	1446	7	\N	\N	0	876
+SRA667466	SRS3060015	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27216	1535	24	\N	\N	0	5726
+SRA667466	SRS3060010	Mesencephalon?	10x chromium	Mus musculus	Illumina HiSeq 2500	24269	1751	12	\N	\N	0	5550
+SRA667466	SRS3060011	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27548	1593	20	\N	\N	0	4531
+SRA667466	SRS3060025	Olfactory bulb	10x chromium	Mus musculus	Illumina HiSeq 2500	22895	962	11	\N	\N	0	1587
+SRA667466	SRS3060014	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27773	1677	21	\N	\N	0	4345
+SRA667466	SRS3060006	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	21363	1165	8	\N	\N	0	696
+SRA667466	SRS3060009	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27537	1748	18	\N	\N	0	3657
+SRA667466	SRS3060012	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	26829	1345	20	\N	\N	0	5051
+SRA667466	SRS3060004	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	23248	1242	10	\N	\N	0	1275
+SRA667466	SRS3060021	Hippocampus	10x chromium	Mus musculus	Illumina HiSeq 2500	23609	1065	11	\N	\N	0	1926
+SRA667466	SRS3060018	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27697	1396	19	\N	\N	0	6060
+SRA667466	SRS3060019	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	27128	1378	15	\N	\N	0	5333
+SRA667466	SRS3060030	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27924	1225	20	\N	\N	0	8492
+SRA667466	SRS3060035	Hippocampus (ca1)	10x chromium	Mus musculus	Illumina HiSeq 2500	25178	1574	14	\N	\N	0	2500
+SRA667466	SRS3060020	Hippocampus	10x chromium	Mus musculus	Illumina HiSeq 2500	23841	1067	9	\N	\N	0	2081
+SRA667466	SRS3060016	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	21589	731	11	\N	\N	0	2551
+SRA667466	SRS3060017	Spinal cord	10x chromium	Mus musculus	Illumina HiSeq 2500	26764	1138	25	\N	\N	0	6054
+SRA667466	SRS3060007	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	27360	1561	20	\N	\N	0	3557
+SRA667466	SRS3060026	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	23410	1342	7	\N	\N	0	1193
+SRA667466	SRS3060028	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27505	1155	17	\N	\N	0	8163
+SRA667466	SRS3060033	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	25676	1339	16	\N	\N	0	2612
+SRA667466	SRS3060036	Cortex 3	10x chromium	Mus musculus	Illumina HiSeq 2500	26579	1357	18	\N	\N	0	3784
+SRA667466	SRS3060042	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	23415	1043	6	\N	\N	0	2009
+SRA667466	SRS3060045	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27053	1163	17	\N	\N	0	6107
+SRA667466	SRS3060043	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	25226	1208	14	\N	\N	0	4391
+SRA667466	SRS3060044	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	20138	948	5	\N	\N	0	864
+SRA667466	SRS3060038	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	18568	963	4	\N	\N	0	542
+SRA667466	SRS3060037	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	26185	1369	18	\N	\N	0	3043
+SRA667466	SRS3060040	Cortex 3	10x chromium	Mus musculus	Illumina HiSeq 2500	26204	1359	17	\N	\N	0	3160
+SRA667466	SRS3060046	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	24095	1048	7	\N	\N	0	2554
+SRA667466	SRS3060039	Cortex 2	10x chromium	Mus musculus	Illumina HiSeq 2500	27024	1505	21	\N	\N	0	3811
+SRA667466	SRS3060041	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	27526	1233	19	\N	\N	0	8232
+SRA667466	SRS3060049	Somatosensory cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	26606	1042	27	\N	\N	0	5349
+SRA667466	SRS3060059	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	25179	1027	19	\N	\N	0	4822
+SRA667466	SRS3060057	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	21836	1048	4	\N	\N	0	1400
+SRA667466	SRS3060048	Thalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	24898	993	15	\N	\N	0	4588
+SRA667466	SRS3060052	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	21751	981	14	\N	\N	0	1461
+SRA667466	SRS3060054	Enteric nervous system	10x chromium	Mus musculus	Illumina HiSeq 2500	28224	1401	12	\N	\N	0	4833
+SRA667466	SRS3060058	Sympathetic nervous system	10x chromium	Mus musculus	Illumina HiSeq 2500	25902	1078	22	0	1	0	5573
+SRA667466	SRS3060050	Ventral midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	24038	1168	12	\N	\N	0	3288
+SRA667466	SRS3060056	Enteric nervous system	10x chromium	Mus musculus	Illumina HiSeq 2500	28200	1247	15	\N	\N	0	6558
+SRA667466	SRS3060051	Somatosensory cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	28323	1248	20	\N	\N	0	4826
+SRA667466	SRS3060047	Dorsal midbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27098	1193	19	\N	\N	0	6052
+SRA667466	SRS3060062	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	24178	1853	12	\N	\N	0	1575
+SRA667466	SRS3060053	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	22160	998	13	\N	\N	0	1618
+SRA667466	SRS3060060	Enteric nervous system	10x chromium	Mus musculus	Illumina HiSeq 2500	28029	1463	15	\N	\N	0	4532
+SRA667466	SRS3060061	Enteric nervous system	10x chromium	Mus musculus	Illumina HiSeq 2500	27802	1410	15	\N	\N	0	4469
+SRA667466	SRS3060055	Hypothalamus	10x chromium	Mus musculus	Illumina HiSeq 2500	17015	852	4	\N	\N	0	408
+SRA667466	SRS3060063	Olfactory bulb	10x chromium	Mus musculus	Illumina HiSeq 2500	25675	1100	21	\N	\N	0	3220
+SRA667466	SRS3060071	Cortex 3	10x chromium	Mus musculus	Illumina HiSeq 2500	27293	1657	22	\N	\N	0	4359
+SRA526435	SRS1915125	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29796	1875	24	\N	\N	0	9426
+SRA667466	SRS3060069	Amygdala	10x chromium	Mus musculus	Illumina HiSeq 2500	18061	881	4	\N	\N	0	591
+SRA667466	SRS3060067	Olfactory bulb	10x chromium	Mus musculus	Illumina HiSeq 2500	25524	1001	21	\N	\N	0	3344
+SRA667466	SRS3060068	Pons	10x chromium	Mus musculus	Illumina HiSeq 2500	23835	1536	11	\N	\N	0	1736
+SRA667466	SRS3060064	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	24358	1536	13	\N	\N	0	2391
+SRA667466	SRS3060070	Cortex 3	10x chromium	Mus musculus	Illumina HiSeq 2500	27012	1672	19	\N	\N	0	4031
+SRA526435	SRS1915124	Neurons	10x chromium	Mus musculus	Illumina HiSeq 4000	30058	1941	27	\N	\N	0	9980
+SRA667466	SRS3060066	Ventral striatum	10x chromium	Mus musculus	Illumina HiSeq 2500	28282	1362	31	\N	\N	0	7287
+SRA667466	SRS3060065	Medulla oblongata	10x chromium	Mus musculus	Illumina HiSeq 2500	24593	1672	13	\N	\N	0	2139
+SRA526435	SRS1915126	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30459	2196	25	\N	\N	0	9506
+SRA526435	SRS1915127	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29902	1905	23	\N	\N	0	9986
+SRA526435	SRS1915128	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29864	1925	27	\N	\N	0	9750
+SRA526435	SRS1915129	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30145	1970	22	\N	\N	0	9681
+SRA526435	SRS1915134	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29835	2123	25	\N	\N	0	9282
+SRA526435	SRS1915135	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28901	1723	25	\N	\N	0	8872
+SRA526435	SRS1915137	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28856	1730	23	\N	\N	0	8926
+SRA526435	SRS1915138	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28893	1684	24	\N	\N	0	9474
+SRA526435	SRS1915130	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29858	2010	25	\N	\N	0	9252
+SRA526435	SRS1915131	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29448	1813	23	\N	\N	0	8796
+SRA526435	SRS1915139	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29994	1908	25	\N	\N	0	10871
+SRA526435	SRS1915140	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29802	1960	23	\N	\N	0	9994
+SRA526435	SRS1915133	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29319	1890	25	\N	\N	0	9554
+SRA526435	SRS1915136	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29388	1955	24	\N	\N	0	9054
+SRA526435	SRS1915132	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29013	1810	25	\N	\N	0	8959
+SRA526435	SRS1915159	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29829	2036	25	\N	\N	0	10340
+SRA526435	SRS1915162	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29486	1995	26	\N	\N	0	10471
+SRA526435	SRS1915150	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29732	2064	25	\N	\N	0	9537
+SRA526435	SRS1915145	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30357	2242	24	\N	\N	0	9809
+SRA526435	SRS1915167	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29200	2040	23	\N	\N	0	9639
+SRA526435	SRS1915149	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29665	2077	24	\N	\N	0	9389
+SRA526435	SRS1915163	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29085	1970	25	\N	\N	0	9673
+SRA526435	SRS1915156	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29709	1988	23	\N	\N	0	10257
+SRA526435	SRS1915168	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29293	1986	22	\N	\N	0	9896
+SRA526435	SRS1915157	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29834	2061	25	\N	\N	0	10594
+SRA526435	SRS1915160	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29939	2095	29	\N	\N	0	10439
+SRA526435	SRS1915152	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29450	2013	26	\N	\N	0	8737
+SRA526435	SRS1915158	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29684	1987	25	\N	\N	0	10389
+SRA526435	SRS1915151	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29373	1992	24	\N	\N	0	9042
+SRA526435	SRS1915146	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29993	2087	25	\N	\N	0	10149
+SRA526435	SRS1915161	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29653	2034	25	\N	\N	0	10273
+SRA526435	SRS1915141	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30216	2230	24	\N	\N	0	9827
+SRA526435	SRS1915153	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29418	1983	26	\N	\N	0	9142
+SRA526435	SRS1915147	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29560	2010	25	\N	\N	0	9248
+SRA526435	SRS1915142	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30325	2142	25	\N	\N	0	10424
+SRA526435	SRS1915170	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28286	1991	26	\N	\N	0	9193
+SRA526435	SRS1915154	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29910	2018	24	\N	\N	0	10965
+SRA526435	SRS1915155	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29668	2014	26	\N	\N	0	10114
+SRA526435	SRS1915143	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30104	2071	26	\N	\N	0	9880
+SRA526435	SRS1915148	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29621	2057	26	\N	\N	0	9141
+SRA526435	SRS1915169	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28939	1942	25	\N	\N	0	9153
+SRA526435	SRS1915165	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29037	1944	26	\N	\N	0	9587
+SRA526435	SRS1915166	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29023	1985	24	\N	\N	0	9529
+SRA526435	SRS1915144	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29606	1980	26	\N	\N	0	10072
+SRA526435	SRS1915164	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29258	2023	25	\N	\N	0	9645
+SRA526435	SRS1915173	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28347	2023	25	\N	\N	0	9060
+SRA526435	SRS1915188	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29484	2097	23	\N	\N	0	9585
+SRA526435	SRS1915181	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29867	2011	24	\N	\N	0	10144
+SRA526435	SRS1915176	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28440	1976	27	\N	\N	0	9368
+SRA526435	SRS1915178	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30086	2021	26	\N	\N	0	10698
+SRA526435	SRS1915179	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30030	1999	24	\N	\N	0	10647
+SRA526435	SRS1915183	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29124	1825	22	\N	\N	0	9508
+SRA526435	SRS1915177	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28575	1946	24	\N	\N	0	9597
+SRA526435	SRS1915172	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28624	1949	24	\N	\N	0	10067
+SRA526435	SRS1915185	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28856	1666	27	\N	\N	0	9491
+SRA526435	SRS1915171	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28482	1960	25	\N	\N	0	9696
+SRA526435	SRS1915190	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29223	1998	23	\N	\N	0	9136
+SRA526435	SRS1915187	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28988	1955	22	\N	\N	0	9251
+SRA526435	SRS1915194	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29922	1938	24	\N	\N	0	11349
+SRA526435	SRS1915193	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29790	2017	26	\N	\N	0	10348
+SRA526435	SRS1915192	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28844	1827	25	\N	\N	0	9278
+SRA526435	SRS1915182	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29761	1913	27	\N	\N	0	10412
+SRA526435	SRS1915189	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29521	2095	26	\N	\N	0	9683
+SRA526435	SRS1915191	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28941	1917	24	\N	\N	0	9137
+SRA526435	SRS1915175	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28364	1891	24	\N	\N	0	9283
+SRA526435	SRS1915174	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28346	1896	23	\N	\N	0	9361
+SRA526435	SRS1915180	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29414	1844	23	\N	\N	0	9946
+SRA526435	SRS1915184	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29073	1751	26	\N	\N	0	9696
+SRA526435	SRS1915186	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29227	1966	25	\N	\N	0	9764
+SRA526435	SRS1915201	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29596	2000	25	\N	\N	0	10108
+SRA526435	SRS1915204	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29527	1957	27	\N	\N	0	10475
+SRA526435	SRS1915203	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29477	1964	24	\N	\N	0	10114
+SRA526435	SRS1915195	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30139	2037	27	\N	\N	0	10516
+SRA526435	SRS1915200	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29328	1621	27	\N	\N	0	11764
+SRA526435	SRS1915199	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30116	2044	26	\N	\N	0	10508
+SRA526435	SRS1915198	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30114	2103	26	\N	\N	0	10018
+SRA526435	SRS1915202	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29470	1955	27	\N	\N	0	10200
+SRA526435	SRS1915197	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29982	2050	25	\N	\N	0	10446
+SRA526435	SRS1915196	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29990	2085	26	\N	\N	0	10102
+SRA526435	SRS1915215	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29273	1872	26	\N	\N	0	10452
+SRA526435	SRS1915209	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29580	1993	27	\N	\N	0	10178
+SRA526435	SRS1915213	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29531	1961	26	\N	\N	0	10408
+SRA526435	SRS1915211	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29337	1951	24	\N	\N	0	10269
+SRA526435	SRS1915205	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29576	2006	28	\N	\N	0	10033
+SRA526435	SRS1915210	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29448	1995	25	\N	\N	0	9845
+SRA526435	SRS1915207	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29586	2030	25	\N	\N	0	10162
+SRA526435	SRS1915216	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29439	1932	26	\N	\N	0	10364
+SRA526435	SRS1915214	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29379	2007	26	\N	\N	0	9980
+SRA526435	SRS1915208	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29532	1864	27	\N	\N	0	10876
+SRA526435	SRS1915212	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28744	1890	23	\N	\N	0	9037
+SRA526435	SRS1915206	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29653	1999	31	\N	\N	0	10427
+SRA526435	SRS1915236	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29332	1921	27	\N	\N	0	10375
+SRA526435	SRS1915219	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29320	1965	25	\N	\N	0	10056
+SRA526435	SRS1915223	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29504	1951	26	\N	\N	0	10717
+SRA526435	SRS1915235	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29184	1924	26	\N	\N	0	9992
+SRA526435	SRS1915233	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29070	1859	28	\N	\N	0	10418
+SRA526435	SRS1915220	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29068	1844	25	\N	\N	0	10359
+SRA526435	SRS1915242	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28649	1913	26	\N	\N	0	9376
+SRA526435	SRS1915234	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29180	1898	25	\N	\N	0	10322
+SRA526435	SRS1915221	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29447	1993	25	\N	\N	0	9900
+SRA526435	SRS1915218	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29414	1944	26	\N	\N	0	10262
+SRA526435	SRS1915227	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29108	2003	25	\N	\N	0	9122
+SRA526435	SRS1915224	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28979	1889	24	\N	\N	0	9358
+SRA526435	SRS1915231	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29179	1958	26	\N	\N	0	9587
+SRA526435	SRS1915217	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29354	1953	26	\N	\N	0	10109
+SRA526435	SRS1915232	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28886	1930	27	\N	\N	0	8978
+SRA526435	SRS1915239	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29316	1928	25	\N	\N	0	10536
+SRA526435	SRS1915229	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29082	1978	26	\N	\N	0	9280
+SRA526435	SRS1915244	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28862	1826	25	\N	\N	0	10461
+SRA526435	SRS1915238	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28915	1926	25	\N	\N	0	9473
+SRA526435	SRS1915241	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28690	1813	24	\N	\N	0	9996
+SRA526435	SRS1915240	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29177	1906	24	\N	\N	0	10020
+SRA526435	SRS1915225	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28920	1959	21	\N	\N	0	9235
+SRA526435	SRS1915237	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29068	1930	24	\N	\N	0	9977
+SRA526435	SRS1915226	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28895	1903	24	\N	\N	0	9532
+SRA526435	SRS1915243	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28607	1904	25	\N	\N	0	9432
+SRA526435	SRS1915230	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29135	1948	25	\N	\N	0	9573
+SRA526435	SRS1915228	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29077	1995	26	\N	\N	0	9230
+SRA526435	SRS1915222	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	29492	1943	27	\N	\N	0	10496
+SRA526435	SRS1915246	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28799	1890	26	\N	\N	0	9973
+SRA526435	SRS1915250	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28654	1846	27	\N	\N	0	10409
+SRA526435	SRS1915245	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28824	1892	24	\N	\N	0	9816
+SRA625553	SRS2641017	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	26620	2704	11	0	1	0	2323
+SRA526435	SRS1915249	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28609	1822	24	\N	\N	0	10380
+SRA526435	SRS1915255	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28904	1839	23	\N	\N	0	10984
+SRA526435	SRS1915247	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28742	1892	24	\N	\N	0	9745
+SRA526435	SRS1915252	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28718	1867	23	\N	\N	0	10146
+SRA526435	SRS1915253	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28689	1855	27	\N	\N	0	10272
+SRA526435	SRS1915254	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28691	1876	24	\N	\N	0	10088
+SRA625553	SRS2641016	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	27740	2628	10	0	1	0	2732
+SRA526435	SRS1915251	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28602	1833	26	\N	\N	0	10371
+SRA526435	SRS1915248	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28521	1846	25	\N	\N	0	9525
+SRA526435	SRS1915256	Cortex, hippocampus and subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	28798	1840	24	\N	\N	0	10904
+SRA625553	SRS2641021	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	27613	1631	17	0	1	0	3673
+SRA637291	SRS2749446	Left Ventricle	10x chromium	Mus musculus	NextSeq 500	22924	1195	15	0	1	0	1843
+SRA625553	SRS2641018	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28448	1924	20	0	1	0	4912
+SRA625553	SRS2641023	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	26719	1925	17	0	1	0	5016
+SRA625553	SRS2641022	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	24738	2101	11	0	1	0	1782
+SRA637291	SRS2749416	Left Ventricle	10x chromium	Mus musculus	NextSeq 500	24878	1667	19	0	1	0	2594
+SRA625553	SRS2641020	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28490	1455	22	0	1	0	5962
+SRA625553	SRS2641019	Mammary epithelial cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28386	1804	18	0	1	0	5207
+SRA641134	SRS2781555	Microglia	10x chromium	Mus musculus	Illumina HiSeq 4000	21824	1674	8	0	1	0	939
+SRA639854	SRS2766801	Intestinal crypt epithelium	10x chromium	Mus musculus	Illumina HiSeq 4000	27054	3166	18	1	0	0	8852
+SRA641134	SRS2781556	Microglia	10x chromium	Mus musculus	Illumina HiSeq 4000	21771	2590	7	0	1	0	901
+SRA646572	SRS2833947	Human embryo forebrain	10x chromium	Homo sapiens	Illumina HiSeq 2500	32563	2237	25	\N	\N	0	3921
+SRA646572	SRS2833946	Human embryo forebrain	10x chromium	Homo sapiens	Illumina HiSeq 2500	34105	2040	29	\N	\N	0	6597
+SRA555753	SRS2135627	Neonatal mouse stomach explants	10x chromium	Mus musculus	Illumina HiSeq 2500	24103	2937	12	\N	\N	0	2422
+SRA555753	SRS2135625	Neonatal mouse stomach organoid	10x chromium	Mus musculus	Illumina HiSeq 2500	25850	1758	10	\N	\N	0	2210
+SRA665153	SRS3030316	Airway submucosal glandular epithelial cells	10x chromium	Mus musculus	NextSeq 500	21393	1513	11	0	1	0	395
+SRA665153	SRS3030317	Epithelial cells in airway luminal surface	10x chromium	Mus musculus	NextSeq 500	20421	3607	4	0	1	0	192
+SRA555753	SRS2135626	Stomach organoid	10x chromium	Mus musculus	Illumina HiSeq 2500	24490	1870	10	\N	\N	0	2474
+SRA526019	SRS1913131	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	20076	1115	10	0	1	0	499
+SRA526019	SRS1913125	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	27235	1565	21	0	1	0	3256
+SRA650215	SRS2853843	Fetal kidney	drop-seq	Homo sapiens	Illumina HiSeq 2000	23790	972	6	\N	\N	0	752
+SRA526019	SRS1913126	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	23807	991	21	0	1	0	1901
+SRA650215	SRS2853842	Fetal kidney	drop-seq	Homo sapiens	Illumina HiSeq 2000	25218	923	10	\N	\N	0	1305
+SRA526019	SRS1913121	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	26864	1324	24	\N	\N	0	3012
+SRA526019	SRS1913122	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	25120	1253	20	\N	\N	0	2560
+SRA526019	SRS1913123	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	26625	1349	19	\N	\N	0	2573
+SRA638854	SRS2757538	Lks+ hematopoietic stem cells	10x chromium	Mus musculus	Illumina HiSeq 2500	23099	2816	8	0	1	0	2063
+SRA526019	SRS1913128	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	17576	1107	5	0	1	0	246
+SRA526019	SRS1913127	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	22660	1027	18	0	1	0	1691
+SRA650215	SRS2857943	Fetal kidney	drop-seq	Homo sapiens	Illumina HiSeq 2000	20582	971	2	\N	\N	0	346
+SRA526019	SRS1913124	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	26696	1508	22	0	1	0	2881
+SRA526019	SRS1913129	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	18517	1030	8	0	1	0	407
+SRA526019	SRS1913130	Arcuate-median eminence	drop-seq	Mus musculus	NextSeq 500	21776	1129	19	0	1	0	770
+SRA638854	SRS2757539	Lks+ hematopoietic stem cells	10x chromium	Mus musculus	Illumina HiSeq 2500	24958	2148	12	0	1	0	6035
+SRA603929	SRS2477906	Mammary gland epithelium cell	10x chromium	Mus musculus	NextSeq 500	20887	1440	8	0	1	0	2480
+SRA603929	SRS2477907	Mammary gland epithelium cell	10x chromium	Mus musculus	NextSeq 500	21160	1296	10	0	1	0	2679
+SRA636127	SRS2736128	Lsk cells from bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26673	2788	18	0	1	0	7768
+SRA603929	SRS2477905	Mammary gland epithelium cell	10x chromium	Mus musculus	NextSeq 500	20928	1050	11	\N	\N	0	4652
+SRA636127	SRS2736127	Lsk cells from bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26381	2413	15	0	1	0	7229
+SRA603929	SRS2477904	Mammary gland epithelium cell	10x chromium	Mus musculus	NextSeq 500	22053	1206	13	\N	\N	0	5260
+SRA636127	SRS2736124	Lsk cells from bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26727	2599	14	0	1	0	7238
+SRA636127	SRS2736129	Lsk cells from bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26634	2778	19	0	1	0	7793
+SRA636127	SRS2736126	Lsk cells from bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26891	2583	15	0	1	0	8180
+SRA616625	SRS2564611	Testis	10x chromium	Mus musculus	Illumina HiSeq 2500	31827	975	20	0	1	0	7051
+SRA608353	SRS2517519	Hepatocellular carcinoma	10x chromium	Homo sapiens	NextSeq 500	21966	2433	6	1	\N	1	1168
+SRA628554	SRS2664365	Peripheral blood mononuclear cell	10x chromium	Homo sapiens	Illumina HiSeq 2500	24426	922	6	\N	\N	0	2927
+SRA631205	SRS2690037	Pulmonary alveolar type i cells	10x chromium	Mus musculus	Illumina HiSeq 2500	23494	1868	15	\N	\N	0	3034
+SRA652805	SRS2870735	Kidney organoids	drop-seq	Homo sapiens	Illumina HiSeq 2000	25591	1118	11	\N	\N	1	1676
+SRA636127	SRS2736132	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26794	2776	23	0	1	0	8138
+SRA608353	SRS2517521	Hepatocellular carcinoma	10x chromium	Homo sapiens	NextSeq 500	25599	2778	7	1	\N	1	2232
+SRA652805	SRS2870743	Kidney organoids	drop-seq	Homo sapiens	Illumina HiSeq 2000	25736	1194	10	\N	\N	1	1396
+SRA652805	SRS2870733	Kidney organoids	drop-seq	Homo sapiens	Illumina HiSeq 2000	24780	943	10	\N	\N	1	2179
+SRA631205	SRS2690038	Pulmonary alveolar type i cells	10x chromium	Mus musculus	Illumina HiSeq 2500	22811	2082	10	0	1	0	1339
+SRA628554	SRS2664364	Peripheral blood mononuclear cell	10x chromium	Homo sapiens	Illumina HiSeq 2500	23179	802	13	0	1	0	3184
+SRA721637	SRS3416995	Lymph node	10x chromium	Homo sapiens	NextSeq 500	25591	1040	14	1	1	0	2492
+SRA631205	SRS2690036	Pulmonary alveolar type i cells	10x chromium	Mus musculus	Illumina HiSeq 2500	27095	2573	15	\N	\N	0	3304
+SRA616625	SRS2564612	Testis	10x chromium	Mus musculus	Illumina HiSeq 2500	32155	953	20	0	1	0	7234
+SRA631205	SRS2690039	Pulmonary alveolar type ii cells	10x chromium	Mus musculus	Illumina HiSeq 2500	21658	1423	6	0	1	0	2304
+SRA640903	SRS2780388	Melanoma	10x chromium	Homo sapiens	Illumina HiSeq 4000	30607	4521	9	1	\N	1	4836
+SRA721637	SRS3416994	B cells	10x chromium	Homo sapiens	NextSeq 500	25513	1571	8	0	1	0	1583
+SRA640903	SRS2780389	Melanoma	10x chromium	Homo sapiens	Illumina HiSeq 4000	30341	4673	10	1	\N	1	4683
+SRA652805	SRS2870734	Kidney organoids	drop-seq	Homo sapiens	Illumina HiSeq 2000	26145	1101	10	\N	\N	1	1937
+SRA636127	SRS2736131	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	25792	3112	16	0	1	0	7215
+SRA634975	SRS2724912	Ovarian tumor	10x chromium	Homo sapiens	Illumina HiSeq 4000	24574	2099	7	1	\N	1	2033
+SRA634975	SRS2724913	Ovarian tumor	10x chromium	Homo sapiens	Illumina HiSeq 4000	26350	3723	9	1	\N	1	2149
+SRA634975	SRS2724911	Ovarian tumor	10x chromium	Homo sapiens	Illumina HiSeq 4000	26488	3627	11	1	\N	1	2420
+SRA634975	SRS2724914	Ovarian tumor	10x chromium	Homo sapiens	Illumina HiSeq 4000	24102	2026	9	1	\N	1	1989
+SRA700673	SRS3270097	Brain	10x chromium	Homo sapiens	Illumina HiSeq 2500	33145	3473	14	0	1	0	3519
+SRA666103	SRS3038428	Renal cortex	drop-seq	Mus musculus	NextSeq 500	13182	722	3	0	1	0	246
+SRA650986	SRS2859163	Embryonic kidney	drop-seq	Mus musculus	Illumina HiSeq 2500	21923	1253	8	0	\N	0	763
+SRA650986	SRS2859162	Embryonic kidney	drop-seq	Mus musculus	Illumina HiSeq 2500	28992	1256	20	0	\N	0	5967
+SRA635314	SRS2727265	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	21728	744	16	0	1	0	2384
+SRA666103	SRS3038427	Renal cortex	drop-seq	Mus musculus	NextSeq 500	12875	808	3	0	1	0	145
+SRA650986	SRS2859161	Embryonic kidney	drop-seq	Mus musculus	Illumina HiSeq 2500	25664	1579	14	0	\N	0	1935
+SRA666103	SRS3038430	Renal cortex	drop-seq	Mus musculus	NextSeq 500	12887	757	3	0	1	0	208
+SRA666103	SRS3038429	Renal cortex	drop-seq	Mus musculus	NextSeq 500	13191	823	3	0	1	0	170
+SRA661992	SRS2996367	Spleen	10x chromium	Mus musculus	NextSeq 500	18080	634	7	0	1	0	1842
+SRA650986	SRS2861525	Embryonic kidney	drop-seq	Mus musculus	Illumina HiSeq 2500	27112	1530	17	0	\N	0	4612
+SRA658915	SRS2944112	Tumor	10x chromium	Homo sapiens	NextSeq 500	13400	488	6	1	\N	0	1181
+SRA658915	SRS2944111	Tumor	10x chromium	Homo sapiens	NextSeq 500	11880	506	6	1	\N	0	1137
+SRA658915	SRS2944107	Heart	10x chromium	Mus musculus	NextSeq 500	20013	934	10	0	1	0	921
+SRA635094	SRS2725547	Embryoid body	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	29385	1692	10	\N	\N	0	2087
+SRA635094	SRS2725546	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	30779	1906	5	\N	\N	0	7341
+SRA635314	SRS2727271	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	23948	649	19	0	1	0	7505
+SRA658915	SRS2944106	Heart	10x chromium	Mus musculus	NextSeq 500	21436	1022	9	0	1	0	1344
+SRA635314	SRS2727270	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	22606	802	18	0	1	0	4838
+SRA635314	SRS2727267	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	21108	796	17	0	1	0	1796
+SRA635314	SRS2727266	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	23453	918	20	0	1	0	4445
+SRA658915	SRS2944101	Tumor	10x chromium	Homo sapiens	NextSeq 500	15989	565	5	1	\N	0	862
+SRA658915	SRS2944115	Heart	10x chromium	Mus musculus	NextSeq 500	20312	748	9	0	1	0	1386
+SRA658915	SRS2944105	Heart	10x chromium	Mus musculus	NextSeq 500	21575	1054	10	0	1	0	1264
+SRA658915	SRS2944108	Heart	10x chromium	Mus musculus	NextSeq 500	21694	1055	11	0	1	0	1254
+SRA658915	SRS2944110	Tumor	10x chromium	Homo sapiens	NextSeq 500	13699	467	7	1	\N	0	893
+SRA658915	SRS2944114	Heart	10x chromium	Mus musculus	NextSeq 500	20858	837	12	0	1	0	1491
+SRA658915	SRS2944103	Tumor	10x chromium	Homo sapiens	NextSeq 500	17596	552	4	1	\N	0	823
+SRA635314	SRS2727268	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	22486	807	20	0	1	0	2966
+SRA635314	SRS2727269	Whole kidney	10x chromium	Mus musculus	Illumina HiSeq 2000	24694	890	24	0	1	0	10137
+SRA658915	SRS2944113	Heart	10x chromium	Mus musculus	NextSeq 500	19715	728	9	0	1	0	1224
+SRA658915	SRS2944102	Tumor	10x chromium	Homo sapiens	NextSeq 500	18538	576	7	1	\N	0	1169
+SRA658915	SRS2944116	Heart	10x chromium	Mus musculus	NextSeq 500	20820	785	12	0	1	0	1496
+SRA635094	SRS2725548	Embryoid body	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	21910	1422	4	\N	\N	0	683
+SRA658915	SRS2944104	Tumor	10x chromium	Homo sapiens	NextSeq 500	13306	590	5	1	\N	0	981
+SRA658915	SRS2944109	Tumor	10x chromium	Homo sapiens	NextSeq 500	16111	519	6	1	0	0	943
+SRA635094	SRS2725551	Embryoid body	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	29686	2108	17	\N	\N	0	980
+SRA635094	SRS2725550	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	22992	1850	3	\N	\N	0	1371
+SRA635094	SRS2725549	Embryoid body	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	28866	2403	5	\N	\N	0	2487
+SRA635094	SRS2725552	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	27554	1774	4	\N	\N	0	4694
+SRA635094	SRS2976476	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	20968	2269	2	\N	\N	0	619
+SRA635094	SRS2976475	Embryoid body	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	28213	1740	5	\N	\N	0	3008
+SRA540941	SRS2016485	Mammary gland	10x chromium	Mus musculus	NextSeq 500	20611	1138	11	0	1	0	2962
+SRA635094	SRS2976477	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	20605	2320	7	\N	\N	0	505
+SRA635094	SRS2725553	Embryonic stem cell	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	28756	1944	5	\N	\N	0	3933
+SRA575494	SRS2290359	Lacrimal gland	10x chromium	Mus musculus	Illumina HiSeq 2500	18931	992	4	\N	\N	0	408
+SRA575494	SRS2290358	Lacrimal gland	10x chromium	Mus musculus	Illumina HiSeq 2500	18745	978	5	\N	\N	0	621
+SRA594999	SRS2397418	Umbilical vein endothelial cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	27130	2820	12	\N	\N	0	5633
+SRA594999	SRS2397417	Umbilical vein endothelial cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	27445	2357	16	\N	\N	0	8604
+SRA605699	SRS2496029	Embryoid body	10x chromium	Mus musculus	Illumina HiSeq 2500	16579	824	2	\N	\N	0	437
+SRA691388	SRS3173558	Breast epithelium	10x chromium	Homo sapiens	Illumina HiSeq 4000	33664	2981	13	0	1	0	8737
+SRA691388	SRS3173557	Breast epithelium	10x chromium	Homo sapiens	Illumina HiSeq 4000	31119	1770	11	0	1	0	7027
+SRA691388	SRS3173556	Breast epithelium	10x chromium	Homo sapiens	Illumina HiSeq 4000	33638	2644	13	0	1	0	7916
+SRA617020	SRS2566665	B cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	19308	1767	4	\N	\N	0	276
+SRA617020	SRS2566664	B cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	18620	1577	3	\N	\N	0	257
+SRA691388	SRS3173555	Breast epithelium	10x chromium	Homo sapiens	Illumina HiSeq 4000	28323	1718	13	0	1	0	4186
+SRA621638	SRS2610285	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	21114	1389	5	0	1	0	793
+SRA621638	SRS2610283	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	23393	1213	9	0	1	0	1136
+SRA429320	SRS1467250	Retina	drop-seq	Mus musculus	NextSeq 500	24126	959	14	\N	\N	0	2500
+SRA429320	SRS1467249	Retina	drop-seq	Mus musculus	NextSeq 500	21679	890	11	\N	\N	0	1790
+SRA429320	SRS1467251	Retina	drop-seq	Mus musculus	NextSeq 500	22425	891	12	\N	\N	0	2324
+SRA429320	SRS1467253	Retina	drop-seq	Mus musculus	NextSeq 500	24099	945	17	\N	\N	0	4211
+SRA429320	SRS1467252	Retina	drop-seq	Mus musculus	NextSeq 500	23772	957	14	\N	\N	0	2759
+SRA429320	SRS1467254	Retina	drop-seq	Mus musculus	NextSeq 500	24691	966	18	\N	\N	0	4429
+SRA611634	SRS2532207	Lung	10x chromium	Mus musculus	NextSeq 500	21944	1458	12	0	1	0	687
+SRA611634	SRS2532205	Lung	10x chromium	Mus musculus	NextSeq 500	26565	1688	15	0	1	0	2995
+SRA611634	SRS2532206	Lung	10x chromium	Mus musculus	NextSeq 500	24163	1429	19	0	1	0	1623
+SRA615504	SRS2553350	Kidney	drop-seq	Mus musculus	Illumina HiSeq 2500	27116	1530	17	\N	\N	0	4612
+SRA637296	SRS2749429	Thymus	drop-seq	Mus musculus	NextSeq 500	23907	1765	8	\N	\N	0	1568
+SRA637296	SRS2749431	Thymus	drop-seq	Mus musculus	NextSeq 500	22905	2035	9	\N	\N	0	939
+SRA637296	SRS2749428	Thymus	drop-seq	Mus musculus	NextSeq 500	22872	1766	8	\N	\N	0	995
+SRA611634	SRS2532209	Lung	10x chromium	Mus musculus	NextSeq 500	24746	992	15	0	1	0	1884
+SRA611634	SRS2532208	Lung	10x chromium	Mus musculus	NextSeq 500	23356	1129	10	0	1	0	1086
+SRA611634	SRS2532210	Lung	10x chromium	Mus musculus	NextSeq 500	24116	1276	14	0	1	0	1443
+SRA615504	SRS2553348	Kidney	10x chromium	Mus musculus	Illumina HiSeq 2500	25545	2183	19	\N	\N	0	2986
+SRA637296	SRS2749445	Thymus	drop-seq	Mus musculus	NextSeq 500	22047	1177	9	\N	\N	0	1859
+SRA637296	SRS2749433	Thymus	drop-seq	Mus musculus	NextSeq 500	23764	2342	11	\N	\N	0	909
+SRA637296	SRS2749435	Thymus	drop-seq	Mus musculus	NextSeq 500	13103	987	2	\N	\N	0	210
+SRA637296	SRS2749447	Thymus	drop-seq	Mus musculus	NextSeq 500	22993	1295	11	\N	\N	0	1508
+SRA481537	SRS1724939	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	20728	1248	11	0	1	0	748
+SRA609165	SRS2523516	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21207	910	9	0	1	0	1033
+SRA481537	SRS1724937	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	23413	1406	12	0	1	0	819
+SRA637296	SRS2749457	Thymus	drop-seq	Mus musculus	NextSeq 500	18483	1249	4	\N	\N	0	618
+SRA609165	SRS2523505	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	20949	914	8	0	1	0	759
+SRA609165	SRS2523517	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21999	979	9	0	1	0	1200
+SRA608553	SRS2855789	Brain	drop-seq	Mus musculus	Illumina HiSeq 2500	20878	765	3	0	1	0	383
+SRA609165	SRS2523520	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	23529	1057	13	0	1	0	1077
+SRA637296	SRS2749434	Thymus	drop-seq	Mus musculus	NextSeq 500	22352	1963	7	\N	\N	0	760
+SRA481537	SRS1724932	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	23389	1281	15	0	1	0	953
+SRA481537	SRS1724931	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	23784	1294	12	0	1	0	837
+SRA609165	SRS2523504	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	22757	993	10	0	1	0	1104
+SRA608553	SRS2855788	Brain	drop-seq	Mus musculus	Illumina HiSeq 2500	18550	779	2	0	1	0	294
+SRA637296	SRS2749441	Thymus	drop-seq	Mus musculus	NextSeq 500	19694	1122	7	\N	\N	0	740
+SRA481537	SRS1724928	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	19274	1301	4	0	1	0	305
+SRA609165	SRS2523509	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	23346	911	12	0	1	0	1598
+SRA609165	SRS2523519	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	24974	992	10	0	1	0	1502
+SRA609165	SRS2523511	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	22812	915	11	0	1	0	1499
+SRA637296	SRS2749440	Thymus	drop-seq	Mus musculus	NextSeq 500	19647	1185	6	\N	\N	0	808
+SRA637296	SRS2749442	Thymus	drop-seq	Mus musculus	NextSeq 500	19972	1263	7	\N	\N	0	854
+SRA481537	SRS1724927	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	25192	1321	16	0	1	0	1289
+SRA637296	SRS2749467	Thymus	drop-seq	Mus musculus	NextSeq 500	22061	1698	8	\N	\N	0	1092
+SRA609165	SRS2523503	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21649	891	10	0	1	0	1072
+SRA637296	SRS2749451	Thymus	drop-seq	Mus musculus	NextSeq 500	22193	3049	4	\N	\N	0	299
+SRA481537	SRS1724933	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	21356	1392	9	0	1	0	500
+SRA609165	SRS2523510	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21435	928	10	0	1	0	1011
+SRA637296	SRS2749459	Thymus	drop-seq	Mus musculus	NextSeq 500	22643	2152	8	\N	\N	0	629
+SRA609165	SRS2523508	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	24047	986	14	0	1	0	1816
+SRA637296	SRS2749460	Thymus	drop-seq	Mus musculus	NextSeq 500	23911	1426	10	\N	\N	0	1882
+SRA637296	SRS2749464	Thymus	drop-seq	Mus musculus	NextSeq 500	24503	1396	13	\N	\N	0	2092
+SRA637296	SRS2749436	Thymus	drop-seq	Mus musculus	NextSeq 500	17244	1149	5	\N	\N	0	547
+SRA609165	SRS2523512	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21369	933	8	0	1	0	958
+SRA481537	SRS1724936	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	19588	1296	6	0	1	0	325
+SRA481537	SRS1724935	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	23902	1375	9	0	1	0	831
+SRA481537	SRS1724929	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	23727	1346	12	0	1	0	856
+SRA481537	SRS1724930	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	24294	1437	12	0	1	0	878
+SRA637296	SRS2749469	Thymus	drop-seq	Mus musculus	NextSeq 500	23893	1946	9	\N	\N	0	1495
+SRA637296	SRS2749454	Thymus	drop-seq	Mus musculus	NextSeq 500	24951	1409	12	\N	\N	0	1638
+SRA481537	SRS1724941	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	22754	1366	15	0	1	0	1137
+SRA637296	SRS2749448	Thymus	drop-seq	Mus musculus	NextSeq 500	21899	1613	8	\N	\N	0	1235
+SRA609165	SRS2523502	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	23311	918	10	0	1	0	1434
+SRA609165	SRS2523513	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	22704	1005	12	0	1	0	1434
+SRA481537	SRS1724934	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	22695	1379	11	0	1	0	735
+SRA608553	SRS2516433	Brain	drop-seq	Mus musculus	Illumina HiSeq 2500	21089	789	4	0	1	0	325
+SRA637296	SRS2749449	Thymus	drop-seq	Mus musculus	NextSeq 500	22346	1519	10	\N	\N	0	1386
+SRA637296	SRS2749463	Thymus	drop-seq	Mus musculus	NextSeq 500	23583	2021	9	\N	\N	0	1145
+SRA609165	SRS2523518	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	16547	826	4	0	1	0	263
+SRA710104	SRS3334253	Adipose	10x chromium	Homo sapiens	Illumina NovaSeq 6000	10535	1435	14	0	1	0	8929
+SRA481537	SRS1724938	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	25474	1330	14	0	1	0	1554
+SRA637296	SRS2749473	Thymus	drop-seq	Mus musculus	NextSeq 500	24597	1402	13	\N	\N	0	1652
+SRA637296	SRS2749437	Thymus	drop-seq	Mus musculus	NextSeq 500	22824	1887	10	\N	\N	0	967
+SRA637296	SRS2749443	Thymus	drop-seq	Mus musculus	NextSeq 500	22230	1339	7	\N	\N	0	1320
+SRA637296	SRS2749453	Thymus	drop-seq	Mus musculus	NextSeq 500	24067	1406	13	\N	\N	0	1556
+SRA609165	SRS2523515	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	21572	900	10	0	1	0	1235
+SRA481537	SRS1724940	Hypothalamus	drop-seq	Mus musculus	Illumina HiSeq 2500	20615	1248	10	0	1	0	722
+SRA609268	SRS2523775	Caudal ganglionic eminence	drop-seq	Mus musculus	Illumina HiSeq 2500	23026	936	7	\N	\N	0	1338
+SRA701993	SRS3283674	Spleen	10x chromium	Mus musculus	NextSeq 500	21305	2036	5	0	1	0	2110
+SRA631822	SRS2702616	Brain	drop-seq	Mus musculus	NextSeq 500	23337	1411	10	\N	\N	0	1536
+SRA609268	SRS2523786	Medial ganglionic eminence	drop-seq	Mus musculus	Illumina HiSeq 2500	17938	960	3	\N	\N	0	560
+SRA631822	SRS2702617	Brain	drop-seq	Mus musculus	NextSeq 500	22473	1480	10	\N	\N	0	1680
+SRA631822	SRS2702619	Brain	drop-seq	Mus musculus	NextSeq 500	24737	1367	13	\N	\N	0	2872
+SRA203368	SRS866910	Retina	drop-seq	Mus musculus	NextSeq 500	25484	1123	15	\N	\N	0	1591
+SRA203368	SRS866912	Retina	drop-seq	Mus musculus	NextSeq 500	27079	1092	27	\N	\N	0	3116
+SRA710104	SRS3334254	Adipose	10x chromium	Homo sapiens	Illumina NovaSeq 6000	11833	1795	11	0	1	0	8653
+SRA203368	SRS866906	Retina	drop-seq	Mus musculus	NextSeq 500	26574	1111	19	\N	\N	0	3334
+SRA662115	SRS2998547	Kidney	drop-seq	Mus musculus	NextSeq 500	19541	867	7	0	1	0	1234
+SRA203368	SRS866911	Retina	drop-seq	Mus musculus	NextSeq 500	27331	1143	27	\N	\N	0	3242
+SRA662115	SRS2998545	Kidney	drop-seq	Mus musculus	NextSeq 500	21350	909	8	0	1	0	2338
+SRA609268	SRS2523776	Caudal ganglionic eminence	drop-seq	Mus musculus	Illumina HiSeq 2500	17305	896	4	\N	\N	0	487
+SRA609268	SRS2523779	Lateral ganglionic eminence	drop-seq	Mus musculus	Illumina HiSeq 2500	22300	1143	6	\N	\N	0	777
+SRA631822	SRS2702615	Brain	drop-seq	Mus musculus	NextSeq 500	22927	1133	10	\N	\N	0	1948
+SRA203368	SRS866907	Retina	drop-seq	Mus musculus	NextSeq 500	26445	1135	21	\N	\N	0	1996
+SRA701993	SRS3283675	Spleen	10x chromium	Mus musculus	NextSeq 500	21038	1931	6	0	1	0	2418
+SRA203368	SRS866908	Retina	drop-seq	Mus musculus	NextSeq 500	28545	1170	22	\N	\N	0	3526
+SRA203368	SRS866909	Retina	drop-seq	Mus musculus	NextSeq 500	27479	1151	23	\N	\N	0	2773
+SRA710104	SRS3334255	Adipose	10x chromium	Homo sapiens	Illumina NovaSeq 6000	10146	1403	11	0	1	0	9035
+SRA662115	SRS2998544	Kidney	drop-seq	Mus musculus	NextSeq 500	19317	819	7	0	1	0	1391
+SRA662115	SRS2998546	Kidney	drop-seq	Mus musculus	NextSeq 500	19707	885	6	0	1	0	1465
+SRA631822	SRS2702618	Brain	drop-seq	Mus musculus	NextSeq 500	23280	1408	13	\N	\N	0	1728
+SRA701993	SRS3283676	Spleen	10x chromium	Mus musculus	NextSeq 500	21424	1868	6	0	1	0	2333
+SRA701993	SRS3283677	Bone marrow	10x chromium	Mus musculus	NextSeq 500	22253	1860	9	0	1	0	3054
+SRA615504	SRS2553349	Kidney	C1 Fluidigm	Mus musculus	Illumina HiSeq 2500	30216	4690	10	0	\N	0	1389
+SRA701993	SRS3283678	Bone marrow	10x chromium	Mus musculus	NextSeq 500	21150	1785	6	0	1	0	2350
+SRA701993	SRS3283679	Spleen	10x chromium	Mus musculus	NextSeq 500	20890	2036	5	0	1	0	2123
+ERA846165_ERS1600395	notused	\N	\N	\N	\N	16180	2771	\N	\N	\N	\N	27355
+SRA628550	notused	Peripheral blood mononuclear cells	Smart-seq2	Homo sapiens	Illumina HiSeq 2500	40026	2122	7	\N	\N	0	27355
+SRA559821	notused	Retina	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2500	41530	5003	6	\N	\N	0	27355
+SRA275902	notused	Tonsil	Smart-seq2	Homo sapiens	Illumina HiSeq 2000	33589	3141	4	0	1	0	27355
+SRA426370	notused	Neuronal epithelium	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2000	45476	5690	11	0	\N	0	27355
+SRA323017	notused	Substantia nigra-ventral tegmental area	C1 Fluidigm	Mus musculus	Illumina HiSeq 2000	35579	3877	8	\N	\N	0	27355
+SRA566512	notused	Brain	Smart-seq2	Mus musculus	Illumina HiSeq 2000	25821	3295	2	0	1	0	27355
+SRA566478	notused	Lung	Smart-seq2	Mus musculus	Illumina HiSeq 2000	47977	3191	10	0	1	0	27355
+SRA561344	notused	Brain	Smart-seq2	Mus musculus	Illumina HiSeq 2000	44375	2911	13	0	1	0	27355
+SRA573548	notused	Cortex CA1	10x chromium	Mus musculus	Illumina HiSeq 2500	29662	2121	24	0	1	0	27355
+SRA699165	notused	Spinal cord	Smart-seq2	Mus musculus	HiSeq X Ten	43766	4374	12	0	1	0	27355
+SRA541804	notused	Dentate gyrus	10x chromium	Mus musculus	Illumina HiSeq 2500	27314	1520	20	0	\N	0	27355
+SRA322626	notused	Bone marrow	Smart-seq2	Homo sapiens	Illumina HiSeq 4000	38929	4219	5	1	0	0	27355
+SRA691149	notused	Mammary epithelium	C1 Fluidigm	Homo sapiens	Illumina HiSeq 2500	26098	2847	2	0	1	0	27355
+SRA431419	notused	Striatum	Smart-seq2	Mus musculus	NextSeq 500	36522	6098	12	0	1	0	27355
+SRA538001	notused	In vitro differentiation of mESCs into motor neurons	CEL-seq	Mus musculus	Illumina HiSeq 2500	32488	3245	7	0	\N	0	27355
+SRA734405	SRS3507695	Aorta	10x chromium	Mus musculus	Illumina HiSeq 2500	23424	1741	15	0	1	0	3490
+SRA734405	SRS3507694	Aorta	10x chromium	Mus musculus	Illumina HiSeq 2500	22538	2521	10	0	1	0	1417
+SRA732346	SRS3496838	Endothelial cells	10x chromium	Homo sapiens	NextSeq 500	29533	2331	14	\N	\N	0	3501
+SRA738401	SRS3541979	Heart valve	drop-seq	Mus musculus	Illumina HiSeq 2500	21895	988	10	\N	\N	0	1093
+SRA732346	SRS3496836	Endothelial cells	10x chromium	Homo sapiens	NextSeq 500	26360	2046	11	\N	\N	0	3237
+SRA738401	SRS3541978	Heart valve	drop-seq	Mus musculus	Illumina HiSeq 2500	24980	1179	16	\N	\N	0	3019
+SRA716152	SRS3384791	Retinal ganglion cells	10x chromium	Mus musculus	Illumina HiSeq 4000	30406	4851	31	0	1	0	3960
+SRA716152	SRS3384790	Retinal ganglion cells	10x chromium	Mus musculus	Illumina HiSeq 4000	29969	4962	22	0	1	0	2974
+SRA713577	SRS3363004	Peripheral blood mononuclear cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	27260	1178	12	0	1	0	3167
+SRA722368	SRS3421919	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	17164	1470	4	0	1	0	884
+SRA722368	SRS3421918	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	18134	1554	9	0	1	0	1187
+SRA704181	SRS3305829	Breast cancer cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	28087	2863	12	1	\N	1	3705
+SRA704181	SRS3305830	Breast cancer cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	29103	3003	11	1	\N	1	3893
+SRA704181	SRS3305831	Breast cancer cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	28206	2037	12	1	\N	1	5945
+SRA704181	SRS3305832	Breast cancer cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	28582	2677	12	1	\N	1	4688
+SRA722368	SRS3421921	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	17964	1641	5	0	1	0	923
+SRA722368	SRS3421915	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	18910	1567	6	0	1	0	1233
+SRA722368	SRS3421916	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	18347	1297	7	0	1	0	1300
+SRA701877	SRS3279688	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	21390	1439	6	0	1	0	420
+SRA701877	SRS3279693	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	28482	1726	15	0	1	0	2805
+SRA701877	SRS3279694	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	26662	1298	12	0	1	0	2374
+SRA739096	SRS3545818	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	21114	1689	8	0	1	0	2934
+SRA739096	SRS3545820	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	22215	1177	13	0	1	0	2502
+SRA739096	SRS3545826	Lung	10x chromium	Mus musculus	NextSeq 500	23396	1337	15	0	1	0	7077
+SRA739096	SRS3545828	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	21679	978	13	0	1	0	2535
+SRA701877	SRS3279689	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	27985	2297	10	0	1	0	1183
+SRA739096	SRS3545819	Colon	10x chromium	Mus musculus	Illumina HiSeq 4000	26760	2221	22	0	1	0	5508
+SRA739096	SRS3545817	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	22514	1849	9	0	1	0	3345
+SRA739096	SRS3545824	Liver	10x chromium	Mus musculus	NextSeq 500	19830	1970	7	0	1	0	1361
+SRA701877	SRS3279692	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	31631	2273	17	0	1	0	2741
+SRA701877	SRS3279685	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	24337	1702	9	0	1	0	1067
+SRA739096	SRS3545823	Liver	10x chromium	Mus musculus	NextSeq 500	23552	1722	14	0	1	0	4525
+SRA701877	SRS3279695	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	29540	1709	12	0	1	0	3333
+SRA701877	SRS3279690	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	29792	2155	16	0	1	0	2368
+SRA701877	SRS3279686	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	28164	2128	14	0	1	0	1715
+SRA739096	SRS3545821	Colon	10x chromium	Mus musculus	Illumina HiSeq 4000	25920	2076	17	0	1	0	4874
+SRA701877	SRS3279691	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	28742	1887	13	0	1	0	1704
+SRA739096	SRS3545825	Liver	10x chromium	Mus musculus	NextSeq 500	24534	1876	18	0	1	0	4778
+SRA701877	SRS3279687	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	29120	2159	13	0	1	0	2295
+SRA701877	SRS3279684	Pancreatic islets	10x chromium	Homo sapiens	NextSeq 500	27371	1713	14	0	1	0	1949
+SRA739096	SRS3545822	Liver	10x chromium	Mus musculus	NextSeq 500	21910	1474	12	0	1	0	3571
+SRA739096	SRS3545827	Lung	10x chromium	Mus musculus	NextSeq 500	23460	1773	14	0	1	0	6280
+SRA711739	SRS3344652	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	31961	4878	15	0	0	0	4247
+SRA652149	SRS2862117	Lateral geniculate nucleus	inDrops	Mus musculus	NextSeq 500	35260	1437	19	\N	\N	0	17246
+SRA711739	SRS3344655	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	31484	4168	10	0	\N	0	3443
+SRA711739	SRS3344659	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	29951	3482	13	0	\N	0	2947
+SRA711739	SRS3344654	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	32014	3493	19	0	\N	0	6046
+SRA711739	SRS3344661	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	32199	4297	11	0	\N	0	3957
+SRA711739	SRS3344657	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	32710	3636	15	0	\N	0	5063
+SRA711739	SRS3344660	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	31854	3626	16	0	\N	0	4572
+SRA711739	SRS3344658	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	32184	3829	14	0	\N	0	3962
+SRA711739	SRS3344653	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	30454	4409	13	0	\N	0	4412
+SRA639854	SRS2766803	Intestinal crypt epithelium	10x chromium	Mus musculus	Illumina HiSeq 4000	27221	2112	27	0	1	0	20062
+SRA711739	SRS3344656	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	30452	4288	11	0	\N	0	2919
+SRA711739	SRS3344662	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	31842	3909	10	0	\N	0	5869
+SRA711739	SRS3344663	Embryonic fibroblasts	10x chromium	Mus musculus	HiSeq X Ten	32784	4814	14	0	\N	0	8211
+SRA636225	SRS2737286	Circulating tumor cells in hepatocellular carcinoma	10x chromium	Homo sapiens	Illumina HiSeq 2500	25494	965	18	1	\N	0	6475
+SRA640325	SRS2769050	Lung distal alveolar stromal cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	34026	1912	18	0	1	0	10954
+SRA636225	SRS2737287	Circulating tumor cells in hepatocellular carcinoma	10x chromium	Homo sapiens	Illumina HiSeq 2500	24007	829	16	1	\N	0	3382
+SRA665175	SRS3030493	Oligodendrocyte cultures	drop-seq	Mus musculus	Illumina HiSeq 2000	18829	1071	5	0	\N	0	1065
+SRA585365	SRS2345686	Pancreas	10x chromium	Mus musculus	Illumina HiSeq 2500	25775	1753	21	0	\N	0	4987
+SRA716153	SRS3384793	CD34+ cord blood cells	10x chromium	Homo sapiens	NextSeq 500	24026	1279	8	0	1	0	1880
+SRA585365	SRS3297649	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	31464	2176	28	0	\N	0	15202
+SRA716153	SRS3384792	CD34+ cord blood cells	10x chromium	Homo sapiens	NextSeq 500	27388	1528	11	0	1	0	2252
+SRA716153	SRS3384795	CD34+ cord blood cells	10x chromium	Homo sapiens	NextSeq 500	28711	2061	14	0	\N	0	3141
+SRA585365	SRS2345688	Pancreas	10x chromium	Mus musculus	Illumina HiSeq 2500	25181	1894	16	0	\N	0	4499
+SRA719952	SRS3407249	NK cells	10x chromium	Homo sapiens	NextSeq 500	33161	1328	19	0	1	0	21462
+SRA585365	SRS3297651	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	29916	1107	31	0	\N	0	10520
+SRA585365	SRS3297652	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	29657	1096	29	0	\N	0	10335
+SRA585365	SRS2345687	Pancreas	10x chromium	Mus musculus	Illumina HiSeq 2500	22804	205	30	0	\N	0	4410
+SRA665175	SRS3030491	Oligodendrocyte cultures	drop-seq	Mus musculus	Illumina HiSeq 2000	18147	1106	7	0	\N	0	1091
+SRA701192	SRS3275543	ES-derived embryoid body	10x chromium	Mus musculus	Illumina HiSeq 2500	27615	1655	9	0	\N	0	5055
+SRA585365	SRS3297650	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	29771	2002	29	0	\N	0	11914
+SRA640325	SRS2769051	Lung proximal airway stromal cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	35004	2047	23	0	1	0	10628
+SRA585365	SRS2345685	Pancreas	10x chromium	Mus musculus	Illumina HiSeq 2500	26006	1664	16	0	\N	0	3712
+SRA585365	SRS3297654	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	31481	2755	24	0	\N	0	8096
+SRA701192	SRS3275544	ES-derived embryoid body	10x chromium	Mus musculus	Illumina HiSeq 2500	28923	2352	12	0	\N	0	5429
+SRA585365	SRS3297653	Pancreas	10x chromium	Mus musculus	Illumina NovaSeq 6000	31481	2755	23	0	\N	0	8096
+SRA675486	SRS3097510	Testis	drop-seq	Mus musculus	Illumina HiSeq 2500	28828	1883	11	0	1	0	2097
+SRA681661	SRS3124071	Neural stem cells from subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	32941	4277	17	0	1	0	7875
+SRA681661	SRS3124074	Neural stem cells from subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	33349	3910	14	0	1	0	8544
+SRA681661	SRS3124069	Neural stem cells from subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30907	4237	16	0	1	0	9037
+SRA681661	SRS3124070	Neural stem cells from subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30874	4409	16	0	1	0	8296
+SRA681661	SRS3124072	Neural stem cells from subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	30627	3910	16	0	1	0	9307
+SRA662118	SRS2998557	Embryonic mouse mammary gland	10x chromium	Mus musculus	Illumina HiSeq 2500	25443	2888	12	0	\N	0	1409
+SRA681285	SRS3121028	Dermis	10x chromium	Mus musculus	Illumina HiSeq 4000	29577	2515	17	0	1	0	3290
+SRA681285	SRS3121030	Dermis	10x chromium	Mus musculus	Illumina HiSeq 4000	27709	2597	14	0	1	0	1924
+SRA605365	SRS2492922	Nasal airway epithelium	10x chromium	Homo sapiens	NextSeq 500	30557	3792	12	0	1	0	1836
+SRA665127	SRS3030181	White adipose tissue	10x chromium	Mus musculus	Illumina HiSeq 2500	25939	3404	10	0	\N	0	1319
+SRA701836	SRS3279187	Cardiac progenitor cells	10x chromium	Mus musculus	Illumina HiSeq 2500	22598	1572	8	0	\N	0	1626
+SRA728071	SRS3458842	Leukocytes from aortas	10x chromium	Mus musculus	Illumina HiSeq 4000	25796	2425	18	0	1	0	3828
+SRA688526	SRS3164178	Cortical organoids	10x chromium	Homo sapiens	Illumina HiSeq 2500	31813	2439	13	0	\N	0	2191
+SRA688526	SRS3164179	Cortical organoids	10x chromium	Homo sapiens	Illumina HiSeq 2500	31506	2382	14	0	\N	0	2214
+SRA701836	SRS3279186	Cardiac progenitor cells	10x chromium	Mus musculus	Illumina HiSeq 2500	24164	2172	16	0	\N	0	1691
+SRA729910	SRS3474727	Lung airway epithelial cells	10x chromium	Homo sapiens	NextSeq 500	31577	4588	12	0	\N	0	4369
+SRA729910	SRS3474726	Lung airway epithelial cells	10x chromium	Homo sapiens	NextSeq 500	32615	5029	11	0	\N	0	4103
+SRA728071	SRS3458845	Foam cells from aortas	10x chromium	Mus musculus	Illumina HiSeq 4000	25138	4269	11	0	1	0	843
+SRA753635	SRS3630212	Uterus	drop-seq	Mus musculus	Illumina HiSeq 2500	24798	1098	13	0	\N	0	2646
+SRA748166	SRS3611962	Cardiac tissue	10x chromium	Mus musculus	NextSeq 500	22977	881	6	0	\N	0	1667
+SRA753635	SRS3630213	Uterus	drop-seq	Mus musculus	Illumina HiSeq 2500	26940	1102	16	0	\N	0	4828
+SRA758635	SRS3670040	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	20686	1175	7	0	\N	0	875
+SRA753635	SRS3630214	Uterus	drop-seq	Mus musculus	Illumina HiSeq 2500	24823	1066	12	0	\N	0	1875
+SRA758635	SRS3670039	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	22528	1431	7	0	0	0	2198
+SRA748166	SRS3611961	Cardiac tissue	10x chromium	Mus musculus	NextSeq 500	24784	952	8	0	0	0	2840
+SRA769176	SRS3747747	T cells	10x chromium	Homo sapiens	Illumina HiSeq 3000	23784	996	7	0	1	0	1568
+SRA769176	SRS3747748	T cells	10x chromium	Homo sapiens	Illumina HiSeq 3000	21730	991	5	0	1	0	726
+SRA769176	SRS3747746	T cells	10x chromium	Homo sapiens	Illumina HiSeq 3000	23335	1009	5	0	1	0	1112
+SRA636127	SRS2736130	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	25458	3021	17	\N	\N	0	8309
+SRA788412	SRS3872206	Subcutaneous innate lymphoid cells	10x chromium	Mus musculus	Illumina HiSeq 3000	19872	1702	8	0	1	0	1132
+SRA788412	SRS3872205	Dermal innate lymphoid cells	10x chromium	Mus musculus	Illumina HiSeq 3000	23513	1440	11	0	1	0	3726
+SRA788412	SRS3872204	Epidermal innate lymphoid cells	10x chromium	Mus musculus	Illumina HiSeq 3000	22611	1827	9	0	1	0	3850
+SRA703206	SRS3296613	Colon (Ulcerative Colitis)	10x chromium	Homo sapiens	Illumina HiSeq 4000	31780	1932	18	0	1	0	3322
+SRA703206	SRS3296611	Colon	10x chromium	Homo sapiens	Illumina HiSeq 4000	31499	1134	16	0	1	0	4586
+SRA703206	SRS3296614	Colon (Ulcerative Colitis)	10x chromium	Homo sapiens	Illumina HiSeq 4000	31382	1933	21	0	1	0	4422
+SRA703206	SRS3296612	Colon	10x chromium	Homo sapiens	Illumina HiSeq 4000	31493	1381	24	0	1	0	6156
+SRA688834	SRS3165513	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	17704	2224	5	0	1	0	522
+SRA760933	SRS3693061	Hepatocyte-derived liver progenitor-like cells	10x chromium	Homo sapiens	HiSeq X Ten	31108	3311	15	0	0	0	7629
+SRA688834	SRS3165514	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	19988	1984	7	0	1	0	1595
+SRA592147	SRS2384616	Hippocampus (injury)	drop-seq	Mus musculus	Illumina HiSeq 2500	19374	951	7	0	1	0	467
+SRA688834	SRS3165512	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	25253	2359	14	0	1	0	6302
+SRA592147	SRS2384615	Hippocampus (24h Sham surgery)	drop-seq	Mus musculus	Illumina HiSeq 2500	22235	1084	11	0	1	0	987
+SRA592147	SRS2384617	Hippocampus (injury)	drop-seq	Mus musculus	Illumina HiSeq 2500	21769	1018	15	0	1	0	1121
+SRA688834	SRS3165516	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	19831	2799	8	0	1	0	950
+SRA592147	SRS2384613	Hippocampus (24h Sham surgery)	drop-seq	Mus musculus	Illumina HiSeq 2500	20952	956	13	0	1	0	1198
+SRA592147	SRS2384618	Hippocampus (injury)	drop-seq	Mus musculus	Illumina HiSeq 2500	18626	998	10	0	1	0	394
+SRA688834	SRS3165517	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	17654	2299	7	0	1	0	633
+SRA592147	SRS2384614	Hippocampus (24h Sham surgery)	drop-seq	Mus musculus	Illumina HiSeq 2500	19508	1026	8	0	1	0	332
+SRA688834	SRS3165515	Skeletal muscle macrophages from hindlimb	10x chromium	Mus musculus	Illumina HiSeq 2500	20122	2230	7	0	1	0	1893
+SRA749327	SRS3693909	Merkel Cell Carcinoma	10x chromium	Homo sapiens	Illumina HiSeq 2500	28552	1272	13	1	0	0	5347
+SRA749327	SRS3693910	PBMC	10x chromium	Homo sapiens	Illumina HiSeq 2500	21114	863	10	0	1	0	1833
+SRA749327	SRS3693913	PBMC	10x chromium	Homo sapiens	Illumina HiSeq 2500	21261	566	11	0	1	0	3557
+SRA749327	SRS3693908	Merkel Cell Carcinoma	10x chromium	Homo sapiens	Illumina HiSeq 2500	27148	1348	12	1	0	0	2405
+SRA749327	SRS3693911	PBMC	10x chromium	Homo sapiens	Illumina HiSeq 2500	19293	826	10	0	1	0	1459
+SRA749327	SRS3693912	PBMC	10x chromium	Homo sapiens	Illumina HiSeq 2500	17653	566	8	0	1	0	1287
+SRA594984	SRS2397151	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	25369	3281	14	0	0	0	1249
+SRA594984	SRS2397145	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	25661	4191	14	0	0	0	1007
+SRA594984	SRS2397152	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	25626	3229	16	0	0	0	1582
+SRA594984	SRS2397149	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	23574	3071	13	0	0	0	682
+SRA594984	SRS2397150	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	24631	2606	14	0	0	0	1299
+SRA594984	SRS2397148	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	25583	4227	13	0	0	0	848
+SRA594984	SRS2397146	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	26007	3847	15	0	0	0	1350
+SRA594984	SRS2397147	Embryonic skin	10x chromium	Mus musculus	Illumina HiSeq 4000	26200	4109	14	0	0	0	1202
+SRA780044	SRS3806574	Olfactory epithelium	10x chromium	Mus musculus	Illumina HiSeq 2500	25492	2027	19	0	0	0	1694
+SRA780044	SRS3806572	Olfactory epithelium	10x chromium	Mus musculus	Illumina HiSeq 2500	27155	2024	21	0	0	0	3222
+SRA780044	SRS3806573	Olfactory epithelium	10x chromium	Mus musculus	Illumina HiSeq 2500	24478	1593	15	0	0	0	2376
+SRA780044	SRS3806575	Olfactory epithelium	10x chromium	Mus musculus	Illumina HiSeq 2500	23536	1909	12	0	0	0	1359
+SRA768499	SRS3744984	NK cells from spleen	10x chromium	Mus musculus	NextSeq 500	17082	794	5	0	1	0	1320
+SRA768499	SRS3744980	NK cells from spleen	10x chromium	Homo sapiens	NextSeq 500	23560	1137	6	0	1	0	1141
+SRA768499	SRS3744989	NK cells from blood	10x chromium	Mus musculus	NextSeq 500	18635	930	6	0	1	0	1533
+SRA768499	SRS3744985	NK cells from spleen	10x chromium	Mus musculus	NextSeq 500	18275	978	6	0	1	0	1243
+SRA768499	SRS3744982	NK cells from blood	10x chromium	Homo sapiens	NextSeq 500	22497	1088	5	0	1	0	1150
+SRA768499	SRS3744986	NK cells from spleen	10x chromium	Mus musculus	NextSeq 500	18711	1120	6	0	1	0	1085
+SRA768499	SRS3744988	NK cells from blood	10x chromium	Mus musculus	NextSeq 500	18795	1103	6	0	1	0	1219
+SRA768499	SRS3744990	NK cells from spleen	10x chromium	Homo sapiens	NextSeq 500	21988	786	6	0	1	0	1599
+SRA768499	SRS3744981	NK cells from blood	10x chromium	Homo sapiens	NextSeq 500	22071	877	5	0	1	0	1331
+SRA768499	SRS3744983	NK cells from blood	10x chromium	Homo sapiens	NextSeq 500	23099	967	6	0	1	0	1532
+SRA768499	SRS3744979	NK cells from spleen	10x chromium	Homo sapiens	NextSeq 500	22763	989	6	0	1	0	1168
+SRA768499	SRS3744987	NK cells from blood	10x chromium	Mus musculus	NextSeq 500	16897	823	3	0	1	0	901
+SRA740174	SRS3548774	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	20790	1676	12	0	1	0	4254
+SRA740174	SRS3548773	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	21157	1698	12	0	1	0	3876
+SRA740174	SRS3548771	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	20812	1740	9	0	1	0	2905
+SRA740174	SRS3548769	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	21170	1658	9	0	1	0	3465
+SRA740174	SRS3548768	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	20547	1670	12	0	1	0	3455
+SRA740174	SRS3548772	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	21183	1941	10	0	1	0	3843
+SRA740174	SRS3548770	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	21147	1973	9	0	1	0	3565
+SRA740174	SRS3548782	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	24415	1302	9	0	1	0	647
+SRA740174	SRS3548777	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	20532	1415	8	0	1	0	2640
+SRA740174	SRS3548778	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	21664	2037	11	0	1	0	4021
+SRA740174	SRS3548775	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	20779	1579	7	0	1	0	3352
+SRA740174	SRS3548776	Bone marrow from melanoma tumor-bearing mice	10x chromium	Mus musculus	Illumina HiSeq 2500	21006	1957	12	0	1	0	3436
+SRA740174	SRS3548781	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	26675	1685	9	0	1	0	1007
+SRA740174	SRS3548783	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	26827	1764	10	0	1	0	983
+SRA740174	SRS3548779	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 2500	21168	1488	12	0	1	0	3719
+SRA740174	SRS3548780	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 2500	24087	1319	11	0	1	0	632
+SRA779509	SRS3805251	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	27205	653	18	0	1	0	5079
+SRA779509	SRS3805250	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	26095	597	16	0	1	0	4949
+SRA779509	SRS3805245	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	30494	1106	22	0	1	0	5937
+SRA779509	SRS3805246	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	27790	718	23	0	1	0	5726
+SRA779509	SRS3805249	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	22379	893	11	0	1	0	1076
+SRA779509	SRS3805247	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28880	628	22	0	1	0	7245
+SRA779509	SRS3805248	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	27802	626	18	0	1	0	6075
+SRA779509	SRS3805268	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	30023	1105	22	0	1	0	5324
+SRA779509	SRS3805254	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	29340	926	28	0	1	0	5226
+SRA779509	SRS3805265	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	29199	898	16	0	1	0	5448
+SRA779509	SRS3805267	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	25201	695	15	0	1	0	3768
+SRA779509	SRS3805260	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	25924	746	14	0	1	0	3789
+SRA779509	SRS3805259	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28396	890	19	0	1	0	5730
+SRA779509	SRS3805258	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28727	934	17	0	1	0	5400
+SRA779509	SRS3805253	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	27011	884	18	0	1	0	4943
+SRA779509	SRS3805263	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28726	880	21	0	1	0	5751
+SRA779509	SRS3805252	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	27901	809	19	0	1	0	5267
+SRA779509	SRS3805264	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	22494	1057	7	0	1	0	942
+SRA779509	SRS3805256	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28265	1001	17	0	1	0	4711
+SRA779509	SRS3805266	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	30093	1010	18	0	1	0	5900
+SRA779509	SRS3805261	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	23138	751	12	0	1	0	1738
+SRA779509	SRS3805269	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28810	914	21	0	1	0	5637
+SRA779509	SRS3805255	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	29127	946	22	0	1	0	7183
+SRA779509	SRS3805262	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	31492	1223	22	0	1	0	6109
+SRA779509	SRS3805257	Bone marrow	10x chromium	Homo sapiens	Illumina HiSeq 3000	28352	874	19	0	1	0	5221
+SRA660949	SRS2990318	Umbilical cord blood	10x chromium	Homo sapiens	Illumina HiSeq 2500	25535	1696	6	0	1	0	4707
+SRA664089	SRS3019835	Immortalized gonadotrope cells	10x chromium	Mus musculus	Illumina HiSeq 2500	17959	881	4	0	0	0	2076
+SRA748172	SRS3611969	Splenocytes enriched for B cells	10x chromium	Mus musculus	NextSeq 500	16382	953	4	0	1	0	497
+SRA660949	SRS2990317	Umbilical cord blood	10x chromium	Homo sapiens	Illumina HiSeq 2500	18943	665	3	0	1	0	1220
+SRA664089	SRS3019834	Immortalized gonadotrope cells	10x chromium	Mus musculus	Illumina HiSeq 2500	19157	1228	5	0	0	0	2332
+SRA661260	SRS2991907	T cells	10x chromium	Mus musculus	NextSeq 500	16522	1250	5	0	1	0	581
+SRA748172	SRS3611968	Splenocytes enriched for B cells	10x chromium	Mus musculus	NextSeq 500	16562	816	6	0	1	0	676
+SRA783079	SRS3818442	Pituitary gland	10x chromium	Mus musculus	Illumina HiSeq 4000	29523	2062	24	0	1	0	7685
+SRA783079	SRS3818441	Pituitary gland	10x chromium	Mus musculus	Illumina HiSeq 4000	29007	1896	23	0	1	0	7784
+SRA795539	SRS3947513	Spleen	10x chromium	Homo sapiens	Illumina HiSeq 2500	28212	3249	8	0	1	0	3314
+SRA795539	SRS3947512	Spleen	10x chromium	Homo sapiens	Illumina HiSeq 2500	28028	4149	9	0	1	0	2441
+SRA793426	SRS3924663	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	21149	1281	11	0	1	0	5251
+SRA793426	SRS3924662	Spleen	10x chromium	Mus musculus	Illumina HiSeq 2500	20673	1152	9	0	1	0	4197
+SRA796267	SRS3954312	SVZ-derived neural stem cells	10x chromium	Mus musculus	Illumina HiSeq 2000	24531	1844	12	0	0	0	3628
+SRA796267	SRS3954313	SVZ-derived neural stem cells	10x chromium	Mus musculus	Illumina HiSeq 2000	25912	1355	15	0	1	0	9166
+SRA765288	SRS3731505	CD45+ cells	10x chromium	Mus musculus	Illumina HiSeq 2500	21515	1223	12	1	0	0	3065
+SRA765288	SRS3731506	CD45+ cells	10x chromium	Mus musculus	Illumina HiSeq 2500	21156	1117	13	1	0	0	3441
+SRA758541	SRS3669080	Aortic cells	10x chromium	Mus musculus	Illumina HiSeq 4000	23203	932	13	0	1	0	1132
+SRA765288	SRS3731504	CD45+ cells	10x chromium	Mus musculus	Illumina HiSeq 2500	22670	1225	14	1	0	0	3635
+SRA765288	SRS3731507	CD45+ cells	10x chromium	Mus musculus	Illumina HiSeq 2500	21535	1208	12	1	0	0	3069
+SRA784242	SRS3822683	Testicular cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	28826	1072	7	0	0	0	1549
+SRA716608	SRS3391632	Liver	10x chromium	Homo sapiens	Illumina HiSeq 2500	26180	143	20	0	1	0	5868
+SRA716608	SRS3391631	Liver	10x chromium	Homo sapiens	Illumina HiSeq 2500	20186	589	13	0	1	0	1357
+SRA716608	SRS3391629	Liver	10x chromium	Homo sapiens	Illumina HiSeq 2500	26540	131	17	0	1	0	3982
+SRA784242	SRS3822686	Testicular cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	28192	1100	7	0	0	0	1501
+SRA716608	SRS3391630	Liver	10x chromium	Homo sapiens	Illumina HiSeq 2500	24454	680	13	0	1	0	4486
+SRA784242	SRS3822682	Testicular cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	31198	1103	11	0	0	0	2333
+SRA716608	SRS3391633	Liver	10x chromium	Homo sapiens	Illumina HiSeq 2500	28616	154	16	0	1	0	6469
+SRA784242	SRS3822680	Testicular cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	29825	1159	8	0	0	0	2364
+SRA667709	SRS3065428	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	40279	1408	17	0	1	0	2861
+SRA675945	SRS3100155	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	33018	2139	37	0	0	0	9518
+SRA667709	SRS3065429	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	39979	1270	19	0	1	0	2915
+SRA675945	SRS3100153	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	29821	2487	25	0	0	0	4836
+SRA675945	SRS3100154	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	28262	2311	23	0	0	0	2095
+SRA675945	SRS3100152	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	32715	2222	37	0	0	0	10740
+SRA667709	SRS3065431	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	39210	978	21	0	1	0	3408
+SRA667709	SRS3065430	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	39250	881	21	0	1	0	3822
+SRA675945	SRS3100151	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	26094	2605	19	0	0	0	1040
+SRA667709	SRS3065427	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	39286	1218	18	0	1	0	2893
+SRA667709	SRS3065426	Testicle	10x chromium	Homo sapiens	Illumina HiSeq 2500	37631	909	18	0	1	0	2642
+SRA675945	SRS3100156	Hippocampus	10x chromium	Mus musculus	Illumina NovaSeq 6000	29570	2599	27	0	0	0	3916
+SRA665588	SRS3034028	Lung	drop-seq	Mus musculus	Illumina MiSeq	14984	849	7	0	1	0	288
+SRA665588	SRS3034027	Lung	drop-seq	Mus musculus	Illumina MiSeq	14766	904	4	0	1	0	212
+SRA665588	SRS3034029	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	16968	792	8	0	1	0	628
+SRA782908	SRS3815595	Placenta	drop-seq	Homo sapiens	NextSeq 500	21056	934	4	0	1	0	372
+SRA782908	SRS3815606	Decidua	10x chromium	Homo sapiens	Illumina HiSeq 2500	31570	1589	24	0	0	0	3926
+SRA665588	SRS3034036	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	23640	1123	17	0	1	0	2330
+SRA782908	SRS3815604	Decidua	drop-seq	Homo sapiens	NextSeq 500	23913	884	27	0	0	0	1009
+SRA782908	SRS3815598	Placenta	drop-seq	Homo sapiens	NextSeq 500	20728	952	5	0	0	0	287
+SRA782908	SRS3815600	Placenta	10x chromium	Homo sapiens	Illumina HiSeq 2500	34146	2143	18	0	0	0	6846
+SRA782908	SRS3815594	Placenta	drop-seq	Homo sapiens	NextSeq 500	20915	930	6	0	0	0	371
+SRA782908	SRS3815599	Placenta	drop-seq	Homo sapiens	NextSeq 500	28274	1159	9	0	0	0	2081
+SRA665588	SRS3034032	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	18004	850	6	0	1	0	571
+SRA665588	SRS3034035	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	19455	997	11	0	1	0	1079
+SRA782908	SRS3815607	Decidua	drop-seq	Homo sapiens	NextSeq 500	26001	1079	8	0	0	0	867
+SRA665588	SRS3034033	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	15658	799	6	0	1	0	338
+SRA665588	SRS3034034	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	16860	838	11	0	1	0	862
+SRA782908	SRS3815597	Placenta	10x chromium	Homo sapiens	Illumina HiSeq 2500	28136	845	23	0	0	0	3441
+SRA665588	SRS3034031	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	18526	933	7	0	1	0	658
+SRA782908	SRS3815602	Placenta	drop-seq	Homo sapiens	NextSeq 500	23418	1169	6	0	0	0	521
+SRA665588	SRS3034030	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	19007	870	12	0	1	0	778
+SRA782908	SRS3815601	Placenta	drop-seq	Homo sapiens	NextSeq 500	23429	909	6	0	0	0	583
+SRA782908	SRS3815605	Decidua	drop-seq	Homo sapiens	NextSeq 500	22339	1091	6	0	0	0	489
+SRA782908	SRS3815596	Placenta	drop-seq	Homo sapiens	NextSeq 500	19209	863	4	0	0	0	277
+SRA782908	SRS3815603	Placenta	drop-seq	Homo sapiens	NextSeq 500	18336	953	3	0	0	0	235
+SRA628138	SRS2659220	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	22047	2183	13	0	0	0	2994
+SRA628138	SRS2659249	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21150	1958	11	0	0	0	2178
+SRA628138	SRS2659222	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	20666	2385	10	0	0	0	1081
+SRA628138	SRS2659231	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	20422	2361	7	0	0	0	1300
+SRA628138	SRS2659227	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	18559	2524	5	0	0	0	470
+SRA628138	SRS2659229	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21198	2360	9	0	0	0	1748
+SRA628138	SRS2659221	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	19044	2136	6	0	0	0	1204
+SRA628138	SRS2659223	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	20365	2426	8	0	0	0	946
+SRA628138	SRS2659230	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21273	2510	12	0	0	0	1140
+SRA628138	SRS2659226	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21666	1991	12	0	0	0	2486
+SRA628138	SRS2659225	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21192	2359	11	0	0	0	1930
+SRA628138	SRS2659232	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	19780	3150	6	0	0	0	370
+SRA628138	SRS2659219	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	19828	2188	6	0	0	0	947
+SRA628138	SRS2659228	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	18516	2641	3	0	0	0	477
+SRA628138	SRS2659224	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	20542	2369	10	0	0	0	1558
+SRA628138	SRS2659233	Intestinal organoid epithelial cells	10x chromium	Mus musculus	NextSeq 500	21214	2524	9	0	0	0	1433
+SRA790762	SRS3890618	CD24+ CD45- neuronal cells	10x chromium	Mus musculus	Illumina HiSeq 4000	24578	1762	14	0	0	0	3111
+SRA790762	SRS3890619	CD24+ CD45- neuronal cells	10x chromium	Mus musculus	Illumina HiSeq 4000	24559	1630	14	0	0	0	3126
+SRA790762	SRS3890617	CD24+ CD45- neuronal cells	10x chromium	Mus musculus	Illumina HiSeq 4000	23895	1496	15	0	0	0	2781
+SRA693675	SRS3206192	Submandibular Gland	10x chromium	Mus musculus	Illumina HiSeq 2500	24523	1160	22	0	0	0	2587
+SRA790762	SRS3890620	CD24+ CD45- neuronal cells	10x chromium	Mus musculus	Illumina HiSeq 4000	24122	1636	17	0	0	0	2608
+SRA745740	SRS3600988	Mouse embryonic fibroblasts	10x chromium	Mus musculus	NextSeq 500	29257	2901	12	0	0	0	5686
+SRA794656	SRS3937926	T cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	21799	2096	7	0	0	0	1225
+SRA814476	SRS4073850	T cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	23159	1373	10	0	0	0	1876
+SRA794656	SRS3937924	T cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	21978	1318	8	0	0	0	1785
+SRA660675	SRS2986804	Yolk sack	10x chromium	Mus musculus	NextSeq 500	24317	2272	12	0	0	0	3393
+SRA784190	SRS3822138	Cochlea	10x chromium	Mus musculus	NextSeq 500	22820	4185	7	0	0	0	368
+SRA660675	SRS2986803	Intraembryonic tissues	10x chromium	Mus musculus	NextSeq 500	24800	2282	13	0	0	0	4139
+SRA784190	SRS3822137	Cochlea	10x chromium	Mus musculus	NextSeq 500	21988	2545	9	0	0	0	363
+SRA745744	SRS3600992	Whole heart	10x chromium	Mus musculus	NextSeq 500	27451	1177	23	0	0	0	7378
+SRA745744	SRS3600993	Whole heart	10x chromium	Mus musculus	NextSeq 500	27416	1123	26	0	0	0	7431
+SRA794672	SRS3938165	T cells	10x chromium	Mus musculus	Illumina HiSeq 4000	20355	1942	9	0	0	0	1725
+SRA794672	SRS3938166	T cells	10x chromium	Mus musculus	Illumina HiSeq 4000	19988	1543	7	0	0	0	1366
+SRA801845	SRS4004491	Cardiac progenitor cells	10x chromium	Mus musculus	Illumina HiSeq 2500	22464	2182	7	0	1	0	624
+SRA801845	SRS4004490	Cardiac progenitor cells	10x chromium	Mus musculus	Illumina HiSeq 2500	23177	2359	6	0	1	0	1000
+SRA812961	SRS4058600	T cells	10x chromium	Mus musculus	NextSeq 500	21653	1221	7	0	0	0	3775
+SRA812961	SRS4058601	T cells	10x chromium	Mus musculus	NextSeq 500	22090	1187	9	0	0	0	4943
+SRA666404	SRS3040380	Cortical cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28897	2466	22	0	0	0	5542
+SRA666404	SRS3040377	Cortical cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28515	2528	23	0	0	0	5208
+SRA763890	SRS3720957	Blood CD8+ T lymphocytes	10x chromium	Homo sapiens	Illumina HiSeq 4000	24457	3056	7	0	0	0	2218
+SRA645836	SRS2823453	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	31016	4078	10	0	0	0	4283
+SRA763890	SRS3720958	Blood CD8+ T lymphocytes	10x chromium	Homo sapiens	Illumina HiSeq 4000	23065	1675	7	0	0	0	1165
+SRA763890	SRS3720959	Blood CD8+ T lymphocytes	10x chromium	Homo sapiens	Illumina HiSeq 4000	23614	3067	9	0	0	0	2098
+SRA645836	SRS2823454	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	31663	3883	9	0	0	0	5215
+SRA666404	SRS3040378	Cortical cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28416	2259	24	0	0	0	5975
+SRA666404	SRS3040379	Cortical cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28367	2693	24	0	0	0	4671
+SRA645836	SRS2823483	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	29609	2754	16	0	0	0	3556
+SRA694785	SRS3214440	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	35365	2390	29	0	1	0	11340
+SRA694785	SRS3214438	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	32452	2317	23	0	1	0	5004
+SRA694785	SRS3214441	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	26711	1741	17	0	1	0	2042
+SRA694785	SRS3214439	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	21141	1658	8	0	1	0	372
+SRA664819	SRS3026283	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	20897	963	8	0	1	0	567
+SRA664819	SRS3026286	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	21672	985	13	0	1	0	1092
+SRA645779	SRS2823369	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	29914	3895	12	0	1	0	2266
+SRA664819	SRS3026287	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	20719	1019	10	0	1	0	778
+SRA645779	SRS2823370	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	32590	4019	11	0	1	0	2759
+SRA694785	SRS3214443	Preoptic region of the hypothalamus	10x chromium	Mus musculus	NextSeq 500	33688	2009	29	0	1	0	8639
+SRA664819	SRS3026289	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	21533	974	12	0	1	0	954
+SRA664819	SRS3026288	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	21172	1069	11	0	1	0	1100
+SRA645779	SRS2823374	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	32999	990	24	0	1	0	10346
+SRA664819	SRS3026290	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	20801	962	8	0	1	0	641
+SRA664819	SRS3026282	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	22609	1066	13	0	1	0	1544
+SRA664819	SRS3026284	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	21869	875	10	0	1	0	815
+SRA664819	SRS3026285	Subventricular zone	drop-seq	Mus musculus	NextSeq 500	21142	975	11	0	1	0	1156
+SRA628029	SRS2658205	Mesenteric lymph nodes	10x chromium	Mus musculus	NextSeq 500	24495	1629	15	0	1	0	2948
+SRA645779	SRS2823373	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	31501	1194	14	0	1	0	5554
+SRA645779	SRS2823375	Testis	10x chromium	Mus musculus	NextSeq 500	32326	3975	18	0	1	0	5661
+SRA694785	SRS3214442	Preoptic region of the hypothalamus	10x chromium	Mus musculus	NextSeq 500	32890	2048	22	0	1	0	8166
+SRA645779	SRS2823371	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	30383	2548	12	0	1	0	2528
+SRA645779	SRS2823372	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	32749	978	23	0	1	0	8645
+SRA628029	SRS2658204	Periaortic lymph nodes	10x chromium	Mus musculus	NextSeq 500	23737	1429	11	0	1	0	3265
+SRA645804	SRS2823404	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	43493	3615	13	0	1	0	3988
+SRA645804	SRS2823405	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	42903	3152	11	0	1	0	3418
+SRA628029	SRS3348010	Periaortic lymph nodes	10x chromium	Mus musculus	Illumina NovaSeq 6000	25052	2014	14	0	1	0	3572
+SRA628029	SRS3348009	Mesenteric lymph nodes	10x chromium	Mus musculus	Illumina NovaSeq 6000	23561	1706	15	0	1	0	2450
+SRA645804	SRS2823409	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	43310	2490	21	0	1	0	4553
+SRA645804	SRS2823412	Testis	10x chromium	Homo sapiens	NextSeq 500	42836	2802	20	0	1	0	5035
+SRA645804	SRS2823408	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	44869	3741	23	0	1	0	4091
+SRA645804	SRS2823411	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	36017	1060	18	0	1	0	2060
+SRA645804	SRS2823406	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	45025	4361	9	0	1	0	3790
+SRA645804	SRS3572594	Testis	10x chromium	Homo sapiens	NextSeq 500	42601	3085	19	0	1	0	4347
+SRA645804	SRS2823407	Testis	10x chromium	Homo sapiens	Illumina HiSeq 3000	41009	1619	22	0	1	0	3846
+SRA645804	SRS2823410	Testis	10x chromium	Homo sapiens	NextSeq 500	42359	4922	19	0	1	0	3843
+SRA819380	SRS4109837	Peripheral lymph node	10x chromium	Mus musculus	Illumina HiSeq 4000	18156	954	6	0	1	0	1458
+SRA819380	SRS4109836	Ear skin	10x chromium	Mus musculus	Illumina HiSeq 4000	13532	735	3	0	1	0	347
+SRA819380	SRS4109835	Ear skin	10x chromium	Mus musculus	Illumina HiSeq 4000	17263	789	6	0	1	0	983
+SRA765376	SRS3733218	Heart macrophages and dendritic cells	10x chromium	Mus musculus	Illumina HiSeq 2500	21083	1929	13	0	1	0	1808
+SRA697687	SRS3234701	Skin	10x chromium	Mus musculus	Illumina HiSeq 4000	27997	1053	23	0	1	0	18663
+SRA819380	SRS4109838	Thymus	10x chromium	Mus musculus	Illumina HiSeq 4000	20394	1068	9	0	1	0	2343
+SRA801396	SRS3999425	Diencephalon	10x chromium	Mus musculus	NextSeq 500	27269	1699	21	0	0	0	7433
+SRA823298	SRS4144446	Alpha cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	18676	759	3	0	0	0	251
+SRA808665	SRS4036272	Bone marrow	10x chromium	Mus musculus	NextSeq 500	21036	2347	9	0	1	0	1322
+SRA823298	SRS4144447	Beta cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	21854	616	4	0	0	0	642
+SRA808665	SRS4036273	Bone marrow	10x chromium	Mus musculus	NextSeq 500	22125	1610	15	0	1	0	3903
+SRA823298	SRS4144448	Alpha cells	10x chromium	Homo sapiens	Illumina HiSeq 4000	25913	170	7	0	0	0	1866
+SRA784304	SRS3823100	Pancreatic progenitor cells	10x chromium	Homo sapiens	NextSeq 500	35696	2193	12	0	0	0	4712
+SRA784304	SRS3823096	Pancreatic progenitor cells	10x chromium	Mus musculus	NextSeq 500	25129	2676	10	0	0	0	1400
+SRA784304	SRS3823097	Pancreatic progenitor cells	10x chromium	Mus musculus	NextSeq 500	25331	2120	15	0	0	0	3344
+SRA784304	SRS3823099	Pancreatic progenitor cells	10x chromium	Mus musculus	NextSeq 500	22861	2357	9	0	0	0	568
+SRA784304	SRS3823095	Pancreatic progenitor cells	10x chromium	Mus musculus	NextSeq 500	30053	2583	17	0	0	0	5570
+SRA784304	SRS3823098	Pancreatic progenitor cells	10x chromium	Mus musculus	NextSeq 500	27918	2366	22	0	0	0	2672
+SRA653146	SRS3044263	Trachea	10x chromium	Mus musculus	Illumina NovaSeq 6000	27247	1540	19	0	1	0	4419
+SRA653146	SRS3044245	Liver	10x chromium	Mus musculus	Illumina NovaSeq 6000	15166	415	6	0	1	0	539
+SRA653146	SRS3044251	Bladder	10x chromium	Mus musculus	Illumina NovaSeq 6000	25834	3408	10	0	1	0	671
+SRA653146	SRS3044246	Marrow	10x chromium	Mus musculus	Illumina NovaSeq 6000	25289	1246	18	0	1	0	3590
+SRA653146	SRS3044239	Bladder	10x chromium	Mus musculus	Illumina NovaSeq 6000	20240	3687	3	0	1	0	162
+SRA653146	SRS3044261	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25432	1588	15	0	1	0	2412
+SRA653146	SRS3044250	Spleen	10x chromium	Mus musculus	Illumina NovaSeq 6000	25033	1305	21	0	0	0	6218
+SRA653146	SRS3044260	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	22788	1860	11	0	1	0	770
+SRA808665	SRS4036276	Bone marrow	10x chromium	Mus musculus	NextSeq 500	19575	1989	4	0	1	0	510
+SRA653146	SRS3044241	Kidney	10x chromium	Mus musculus	Illumina NovaSeq 6000	22527	1406	11	0	1	0	922
+SRA808665	SRS4036274	Bone marrow	10x chromium	Mus musculus	NextSeq 500	22848	1574	16	0	1	0	5945
+SRA653146	SRS3044249	Kidney	10x chromium	Mus musculus	Illumina NovaSeq 6000	25356	1326	19	0	1	0	1885
+SRA653146	SRS3044248	Heart	10x chromium	Mus musculus	Illumina NovaSeq 6000	23535	2116	10	0	1	0	827
+SRA653146	SRS3044244	Liver	10x chromium	Mus musculus	Illumina NovaSeq 6000	16679	657	9	0	1	0	792
+SRA653146	SRS3044247	Marrow	10x chromium	Mus musculus	Illumina NovaSeq 6000	25276	1267	18	0	1	0	3508
+SRA808665	SRS4036275	Bone marrow	10x chromium	Mus musculus	NextSeq 500	20572	2000	4	0	1	0	768
+SRA653146	SRS3044238	Liver	10x chromium	Mus musculus	Illumina NovaSeq 6000	15815	588	10	0	1	0	1489
+SRA653146	SRS3044242	Kidney	10x chromium	Mus musculus	Illumina NovaSeq 6000	22922	1128	10	0	1	0	1339
+SRA653146	SRS3044252	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	23156	2139	16	0	1	0	660
+SRA653146	SRS3044237	Tongue	10x chromium	Mus musculus	Illumina NovaSeq 6000	26391	2950	14	0	1	0	2632
+SRA653146	SRS3044236	Tongue	10x chromium	Mus musculus	Illumina NovaSeq 6000	25840	2754	17	0	1	0	3254
+SRA653146	SRS3044240	Bladder	10x chromium	Mus musculus	Illumina NovaSeq 6000	25311	2721	10	0	1	0	1953
+SRA653146	SRS3044243	Spleen	10x chromium	Mus musculus	Illumina NovaSeq 6000	23612	1332	20	0	1	0	3630
+SRA653146	SRS3044258	Muscle	10x chromium	Mus musculus	Illumina NovaSeq 6000	25644	1552	18	0	1	0	2265
+SRA653146	SRS3044262	Trachea	10x chromium	Mus musculus	Illumina NovaSeq 6000	29236	1329	28	0	1	0	6331
+SRA653146	SRS3044259	Muscle	10x chromium	Mus musculus	Illumina NovaSeq 6000	25413	1515	19	0	1	0	2331
+SRA653146	SRS3044255	Thymus	10x chromium	Mus musculus	Illumina NovaSeq 6000	22941	1379	12	0	1	0	3042
+SRA653146	SRS3044253	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	24816	1785	21	0	1	0	1569
+SRA653146	SRS3044254	Tongue	10x chromium	Mus musculus	Illumina NovaSeq 6000	26260	3417	15	0	1	0	2164
+SRA653146	SRS3044256	Mammary tissue	10x chromium	Mus musculus	Illumina NovaSeq 6000	26831	1527	17	0	1	0	2710
+SRA653146	SRS3044257	Mammary tissue	10x chromium	Mus musculus	Illumina NovaSeq 6000	26868	1423	20	0	1	0	3002
+SRA653146	SRS2874274	Kidney	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	24408	896	11	0	1	0	1543
+SRA653146	SRS2874285	Trachea	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	34558	3807	24	0	1	0	1840
+SRA653146	SRS2874284	Tongue	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	32245	5136	13	0	1	0	2366
+SRA653146	SRS2874283	Thymus	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	31170	1938	8	0	1	0	2565
+SRA653146	SRS2874282	Spleen	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	29564	1956	11	0	1	0	2635
+SRA653146	SRS2874281	Skin	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	32789	3452	17	0	1	0	4326
+SRA653146	SRS2874280	Pancreas	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	35504	4400	17	0	1	0	3329
+SRA653146	SRS2874278	Bone marrow	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	38240	3143	19	0	1	0	8065
+SRA653146	SRS2874275	Liver	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	27032	2605	16	0	1	0	1347
+SRA653146	SRS2874279	Muscle	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	33392	2283	17	0	1	0	3695
+SRA653146	SRS2874276	Lung	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	33652	2521	24	0	1	0	3101
+SRA653146	SRS2874277	Mammary gland	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	32875	3881	17	0	1	0	4299
+SRA653146	SRS2874273	Heart	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	47873	2269	27	0	1	0	11277
+SRA653146	SRS2874269	Microglia	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	36703	2225	9	0	1	0	8397
+SRA653146	SRS2874268	Bladder	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	31620	5292	11	0	1	0	1999
+SRA653146	SRS2874272	Colon	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	47513	4324	23	0	1	0	5976
+SRA653146	SRS2874270	Brain (neurons)	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	39320	2791	18	0	1	0	7621
+SRA653146	SRS2874271	Fat	SMART-seq2	Mus musculus	Illumina NovaSeq 6000	40386	3042	29	0	1	0	9125
+SRA797009	SRS3957701	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	23944	1684	17	0	0	0	5745
+SRA797009	SRS3957703	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	24110	1372	19	0	0	0	7081
+SRA797009	SRS3957700	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	23190	1720	13	0	0	0	4509
+SRA797009	SRS3957702	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	23484	1431	18	0	0	0	5460
+SRA797009	SRS3957699	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	24003	1433	18	0	0	0	6430
+SRA709816	SRS3331831	ES-derived kidney organoid	10x chromium	Homo sapiens	Illumina HiSeq 2500	33073	2580	15	0	0	0	2536
+SRA797009	SRS3957704	Spleen	10x chromium	Mus musculus	Illumina HiSeq 4000	23989	1888	18	0	0	0	5013
+SRA709816	SRS3331833	ES-derived kidney organoid	10x chromium	Homo sapiens	Illumina HiSeq 2500	32938	2562	15	0	0	0	2756
+SRA709816	SRS3331832	ES-derived kidney organoid	10x chromium	Homo sapiens	Illumina HiSeq 2500	33236	2547	18	0	0	0	2694
+SRA709816	SRS3331834	ES-derived kidney organoid	10x chromium	Homo sapiens	Illumina HiSeq 2500	33895	2734	13	0	0	0	2616
+SRA742961	SRS3565202	Prostate	10x chromium	Homo sapiens	NextSeq 500	31307	1258	17	0	1	0	5514
+SRA742961	SRS3565198	Prostate	10x chromium	Homo sapiens	NextSeq 500	30783	1130	21	0	1	0	7336
+SRA742961	SRS3565196	Prostate	10x chromium	Homo sapiens	NextSeq 500	30398	1347	15	0	1	0	7400
+SRA742961	SRS3565195	Prostate	10x chromium	Homo sapiens	NextSeq 500	30018	1178	16	0	1	0	5799
+SRA742961	SRS3565211	Prostate	10x chromium	Homo sapiens	NextSeq 500	30458	1443	19	0	1	0	5953
+SRA742961	SRS3565199	Prostate	10x chromium	Homo sapiens	NextSeq 500	31607	1001	16	0	1	0	7666
+SRA742961	SRS3565209	Prostate	10x chromium	Homo sapiens	NextSeq 500	31162	1125	17	0	1	0	6775
+SRA742961	SRS3565207	Prostate	10x chromium	Homo sapiens	NextSeq 500	31657	1352	17	0	1	0	6009
+SRA742961	SRS3565197	Prostate	10x chromium	Homo sapiens	NextSeq 500	30973	1166	16	0	1	0	10897
+SRA742961	SRS3565208	Prostate	10x chromium	Homo sapiens	NextSeq 500	31637	937	12	0	1	0	8113
+SRA742961	SRS3565203	Prostate	10x chromium	Homo sapiens	NextSeq 500	30027	1498	10	0	1	0	6130
+SRA742961	SRS3565205	Prostate	10x chromium	Homo sapiens	NextSeq 500	29102	1379	10	0	1	0	4573
+SRA742961	SRS3565201	Prostate	10x chromium	Homo sapiens	NextSeq 500	30241	1120	11	0	1	0	7105
+SRA742961	SRS3565210	Prostate	10x chromium	Homo sapiens	NextSeq 500	31116	1449	21	0	1	0	5627
+SRA742961	SRS3565204	Prostate	10x chromium	Homo sapiens	NextSeq 500	31735	1329	15	0	1	0	4938
+SRA742961	SRS3565206	Prostate	10x chromium	Homo sapiens	NextSeq 500	29531	915	16	0	1	0	6603
+SRA800102	SRS3990018	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	27500	1056	22	0	1	0	4914
+SRA800102	SRS3990020	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	28626	1099	25	0	1	0	5897
+SRA800102	SRS3990019	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	27840	1165	25	0	1	0	3912
+SRA800102	SRS3990017	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	28921	1220	24	0	1	0	4981
+SRA800102	SRS3990021	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	27943	1108	26	0	1	0	4379
+SRA800102	SRS3990030	Olfactory bulb	10x chromium	Mus musculus	NextSeq 500	28303	1029	27	0	1	0	5743
+SRA826293	SRS4181128	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	42364	1853	19	0	1	0	5889
+SRA826293	SRS4181126	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	32449	1078	11	0	0	0	5192
+SRA826293	SRS4181127	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	39749	1700	18	0	1	0	5421
+SRA826293	SRS4181129	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	41661	1214	20	0	1	0	7469
+SRA826293	SRS4181123	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	31662	919	15	0	0	0	4635
+SRA802096	SRS4005008	Skin	10x chromium	Mus musculus	Illumina HiSeq 2500	28500	2491	22	0	0	0	6298
+SRA826293	SRS4181125	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	28661	985	7	0	0	0	3739
+SRA826293	SRS4181130	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	44670	1638	21	0	1	0	8578
+SRA826293	SRS4181124	Testis	10x chromium	Homo sapiens	Illumina HiSeq 4000	30443	1002	9	0	0	0	3144
+SRA802096	SRS4005009	Skin	10x chromium	Mus musculus	Illumina HiSeq 2500	28375	2299	23	0	0	0	6558
+SRA683818	SRS3139246	Mandible	10x chromium	Mus musculus	Illumina HiSeq 2500	29019	2466	19	0	0	0	11699
+SRA745567	SRS3600295	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	29351	1684	19	0	1	0	5939
+SRA745567	SRS3600293	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	28889	1432	24	0	1	0	5728
+SRA745567	SRS3600294	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	28861	1256	19	0	1	0	7649
+SRA834109	SRS4247443	Lymphoblastoid cell line	10x chromium	Homo sapiens	Illumina NovaSeq 6000	32157	3240	15	0	0	1	6509
+SRA745567	SRS3600300	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	31106	1855	22	0	1	0	7593
+SRA745567	SRS3600299	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	30049	1501	23	0	1	0	9084
+SRA745567	SRS3600297	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	29686	1454	25	0	1	0	7123
+SRA745567	SRS3600298	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	30275	1701	26	0	1	0	7394
+SRA745567	SRS3600296	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	30705	1528	28	0	1	0	10032
+SRA745567	SRS3600301	Pancreatic islets	10x chromium	Mus musculus	Illumina NovaSeq 6000	31299	1786	29	0	1	0	7277
+SRA832392	SRS4237526	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	18595	768	6	0	1	0	864
+SRA832392	SRS4237523	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	19552	817	12	0	1	0	616
+SRA824823	SRS4170672	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25991	1401	13	0	1	0	1593
+SRA832392	SRS4237522	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	14940	796	4	0	1	0	190
+SRA824823	SRS4170673	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	26245	1302	12	0	1	0	1775
+SRA824823	SRS4170666	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	24757	1311	10	0	1	0	1101
+SRA832392	SRS4237519	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	16952	774	5	0	1	0	314
+SRA832392	SRS4237520	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	15845	862	3	0	1	0	187
+SRA832392	SRS4237521	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	16888	761	4	0	1	0	420
+SRA832392	SRS4237529	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	18411	831	8	0	1	0	393
+SRA824823	SRS4170675	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25831	1309	12	0	1	0	1859
+SRA824823	SRS4170670	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25146	1358	8	0	1	0	1118
+SRA849423	SRS4368753	Embryonic thymus	drop-seq	Mus musculus	NextSeq 500	18448	1172	3	0	0	0	615
+SRA832392	SRS4237527	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	18152	736	7	0	1	0	693
+SRA824823	SRS4170665	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25866	1312	12	0	1	0	1650
+SRA824823	SRS4170669	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25522	1414	10	0	1	0	1573
+SRA692557	SRS3191855	Lung endoderm	10x chromium	Mus musculus	Illumina HiSeq 2500	28841	2815	17	0	0	0	6029
+SRA824823	SRS4170667	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	27218	1307	15	0	1	0	2573
+SRA832392	SRS4237525	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	19655	915	9	0	1	0	611
+SRA824823	SRS4170676	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	26062	1317	12	0	1	0	1871
+SRA824823	SRS4170674	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25724	1290	12	0	1	0	1786
+SRA832392	SRS4237524	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	13203	772	2	0	1	0	114
+SRA832392	SRS4237528	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	17552	690	8	0	1	0	787
+SRA832392	SRS4237518	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	16397	700	5	0	1	0	422
+SRA824823	SRS4170668	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	25823	1278	13	0	1	0	1737
+SRA824823	SRS4170664	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	26780	1381	12	0	1	0	1807
+SRA692557	SRS4245406	Lung endoderm	10x chromium	Mus musculus	Illumina HiSeq 2500	27008	1878	20	0	0	0	7742
+SRA824823	SRS4170671	Medial amygdala	drop-seq	Mus musculus	NextSeq 500	24680	1211	10	0	1	0	1447
+SRA832392	SRS4237530	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	17886	765	8	0	1	0	472
+SRA832392	SRS4237531	Lung	drop-seq	Mus musculus	Illumina HiSeq 4000	15520	710	4	0	1	0	313
+SRA757817	SRS3666495	Embryonic kidney	10x chromium	Mus musculus	Illumina HiSeq 2500	28126	2494	18	0	0	0	2587
+SRA757817	SRS3666499	Embryonic kidney	10x chromium	Mus musculus	Illumina HiSeq 2500	26316	825	13	0	0	0	3637
+SRA757817	SRS3666498	Embryonic kidney	10x chromium	Mus musculus	Illumina HiSeq 2500	27708	1261	17	0	0	0	3221
+SRA807566	SRS4031561	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	28726	992	26	0	0	0	6913
+SRA807566	SRS4031560	Lung	drop-seq	Mus musculus	Illumina HiSeq 2500	22301	747	14	0	0	0	1962
+SRA776751	SRS3790782	Liver	10x chromium	Mus musculus	Illumina HiSeq 4000	11704	1002	7	0	0	0	1198
+SRA661790	SRS2995081	Monocyte-derived macrophages	10x chromium	Homo sapiens	Illumina HiSeq 4000	24648	1332	14	0	1	0	2630
+SRA661790	SRS2995083	Monocyte-derived macrophages	10x chromium	Homo sapiens	Illumina HiSeq 4000	23453	862	11	0	1	0	2550
+SRA661790	SRS2995084	Monocyte-derived macrophages	10x chromium	Homo sapiens	Illumina HiSeq 4000	22833	770	9	0	1	0	2962
+SRA776751	SRS3790783	Liver	10x chromium	Mus musculus	Illumina HiSeq 4000	15480	1975	11	0	0	0	1264
+SRA661790	SRS2995082	Monocyte-derived macrophages	10x chromium	Homo sapiens	Illumina HiSeq 4000	24227	1117	12	0	1	0	2557
+SRA665712	SRS3034952	T cells	10x chromium	Homo sapiens	NextSeq 500	25453	633	7	0	1	0	7409
+SRA767215	SRS3741675	Leukemic cells	10x chromium	Mus musculus	NextSeq 500	19939	3094	7	1	0	0	1243
+SRA676027	SRS3102136	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	31646	2664	10	0	0	1	3283
+SRA676027	SRS3102138	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	30362	1986	14	0	0	1	4563
+SRA676027	SRS3102137	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	30723	2234	17	0	0	1	4391
+SRA676027	SRS3102139	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	30564	1636	17	0	0	1	6399
+SRA665712	SRS3034950	T cells	10x chromium	Homo sapiens	NextSeq 500	28797	1208	18	0	1	0	10430
+SRA767215	SRS3741672	Leukemic cells	10x chromium	Mus musculus	NextSeq 500	20052	3186	9	1	0	0	1296
+SRA767215	SRS3741673	Leukemic cells	10x chromium	Mus musculus	NextSeq 500	20224	2388	10	1	0	0	1717
+SRA665712	SRS3034951	T cells	10x chromium	Homo sapiens	NextSeq 500	32847	1261	21	0	1	0	13616
+SRA767215	SRS3741671	Leukemic cells	10x chromium	Mus musculus	NextSeq 500	20014	2489	10	1	0	0	1448
+SRA665712	SRS3034953	T cells	10x chromium	Homo sapiens	NextSeq 500	33351	1366	35	0	1	0	12325
+SRA676027	SRS3102140	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	30699	1826	14	0	0	1	5279
+SRA676027	SRS3102144	Embryonic stem cell line	10x chromium	Homo sapiens	Illumina HiSeq 2500	31081	2779	10	0	0	1	2721
+SRA834897	SRS4252172	Macrophage from E14.5	10x chromium	Mus musculus	Illumina NovaSeq 6000	30439	3272	27	0	0	0	8696
+SRA834897	SRS4252173	Macrophage from E14.5	10x chromium	Mus musculus	Illumina NovaSeq 6000	29548	3402	25	0	0	0	7209
+SRA834897	SRS4252176	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	22067	503	20	0	0	0	5293
+SRA834897	SRS4252174	Macrophage from E14.5	10x chromium	Mus musculus	Illumina NovaSeq 6000	30850	3618	27	0	0	0	7210
+SRA834897	SRS4252177	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	20217	271	20	0	1	0	4887
+SRA834897	SRS4252175	Macrophage from E14.5	10x chromium	Mus musculus	Illumina NovaSeq 6000	31279	3070	33	0	0	0	12789
+SRA843432	SRS4322339	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	24451	905	9	1	0	0	2770
+SRA843432	SRS4322341	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	25977	1184	11	1	0	0	3318
+SRA843432	SRS4322345	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	23786	971	15	1	0	0	3535
+SRA843432	SRS4322346	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	23752	885	11	1	0	0	4255
+SRA843432	SRS4322342	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	28271	1799	11	1	0	0	3204
+SRA843432	SRS4322343	Kaposi's sarcoma	10x chromium	Homo sapiens	NextSeq 500	24448	989	11	1	0	0	3743
+SRA755541	SRS3639051	Kaposi's sarcoma	10x chromium	Mus musculus	NextSeq 500	24287	1554	7	1	0	0	3642
+SRA755541	SRS3639050	Kaposi's sarcoma	10x chromium	Mus musculus	NextSeq 500	25337	2302	9	1	0	0	3939
+SRA755541	SRS3639053	Thymocytes	10x chromium	Mus musculus	NextSeq 500	24573	2293	9	0	0	0	5162
+SRA755541	SRS3639052	Thymocytes	10x chromium	Mus musculus	NextSeq 500	24459	1518	8	0	0	0	4498
+SRA664171	SRS3020563	Prostate basal cells	10x chromium	Mus musculus	HiSeq X Ten	31927	2090	20	0	1	0	13426
+SRA762414	SRS3703557	Heart	10x chromium	Mus musculus	NextSeq 500	28452	1509	28	0	0	0	8778
+SRA783521	SRS3821006	Cerebellum	10x chromium	Mus musculus	NextSeq 500	26332	1266	23	0	0	0	9886
+SRA832580	SRS4238857	Lymphoblastoid cell line	10x chromium	Homo sapiens	Illumina NovaSeq 6000	32521	2652	17	0	0	1	7860
+SRA719240	SRS3404199	Subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	26616	2493	11	0	1	0	2030
+SRA719240	SRS3404198	Subventricular zone	10x chromium	Mus musculus	Illumina HiSeq 4000	25938	2063	11	0	1	0	1821
+SRA852206	SRS4405221	Sub-ventricular zone	10x chromium	Mus musculus	NextSeq 500	26272	1603	19	0	1	0	3780
+SRA822763	SRS4137620	Aorta	10x chromium	Mus musculus	Illumina HiSeq 4000	20501	1175	11	0	1	0	2038
+SRA823777	SRS4151080	Mammary gland	10x chromium	Homo sapiens	NextSeq 500	30946	1634	10	0	1	0	9776
+SRA856483	SRS4457871	Visual cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	30381	3043	19	0	1	0	5475
+SRA815945	SRS4088994	Nerve	10x chromium	Mus musculus	Illumina HiSeq 2500	30486	1217	31	0	1	0	5782
+SRA856483	SRS4457870	Visual cortex	10x chromium	Mus musculus	Illumina HiSeq 2500	28078	2093	18	0	1	0	5504
+SRA823777	SRS4151081	Mammary gland	10x chromium	Homo sapiens	NextSeq 500	32996	1244	13	0	1	0	17569
+SRA822763	SRS4137616	Aorta	10x chromium	Mus musculus	Illumina HiSeq 4000	20134	954	11	0	1	0	2978
+SRA852206	SRS4405220	Sub-ventricular zone	10x chromium	Mus musculus	NextSeq 500	23727	1544	13	0	1	0	2081
+SRA745734	SRS3600977	Intestinal epithelium	10x chromium	Mus musculus	Illumina HiSeq 3000	26844	1662	18	0	1	0	4096
+SRA745734	SRS3600975	Intestinal epithelium	10x chromium	Mus musculus	Illumina HiSeq 3000	27832	980	20	0	1	0	5277
+SRA830037	SRS4205222	Peritoneal cavity cells	10x chromium	Mus musculus	Illumina HiSeq 2500	23668	1868	17	0	1	0	6873
+SRA851241	SRS4388158	Muscle	10x chromium	Mus musculus	Illumina HiSeq 3000	25856	1353	23	0	1	0	1980
+SRA851241	SRS4388160	Muscle	10x chromium	Mus musculus	Illumina HiSeq 3000	20671	1332	5	0	1	0	1262
+SRA851241	SRS4388159	Muscle	10x chromium	Mus musculus	Illumina HiSeq 3000	26735	1343	24	0	1	0	2449
+SRA745734	SRS3600974	Intestinal epithelium	10x chromium	Mus musculus	Illumina HiSeq 3000	26192	1206	17	0	1	0	4526
+SRA830037	SRS4205223	Peritoneal cavity cells	10x chromium	Mus musculus	Illumina HiSeq 2500	23369	1676	15	0	1	0	6852
+SRA745734	SRS3600976	Intestinal epithelium	10x chromium	Mus musculus	Illumina HiSeq 3000	25324	813	14	0	1	0	3849
+SRA851241	SRS4388162	Muscle satellite cells	10x chromium	Mus musculus	Illumina HiSeq 3000	20945	2062	6	0	1	0	1609
+SRA851241	SRS4388164	Muscle satellite cells	10x chromium	Mus musculus	Illumina HiSeq 3000	28177	4806	12	0	0	0	4758
+SRA851241	SRS4388163	Muscle satellite cells	10x chromium	Mus musculus	Illumina HiSeq 3000	20361	1353	6	0	1	0	2030
+SRA851241	SRS4388161	Muscle satellite cells	10x chromium	Mus musculus	Illumina HiSeq 3000	19996	1374	5	0	1	0	1028
+SRA728025	SRS3454423	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	29061	677	14	0	1	0	2170
+SRA728025	SRS3454424	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	28569	1504	14	0	1	0	1803
+SRA728025	SRS3454421	Inflamed area of colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	28359	805	14	0	1	0	1789
+SRA797768	SRS3969076	Bone marrow mesenchymal and endothelial cells	10x chromium	Mus musculus	NextSeq 500	22819	1266	9	0	1	0	1004
+SRA797768	SRS4351136	Bone marrow mesenchymal and endothelial cells	10x chromium	Mus musculus	NextSeq 500	24537	1364	15	0	1	0	2754
+SRA728025	SRS3454422	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	28559	768	13	0	1	0	2206
+SRA705190	SRS4139633	Embryonic kidney	10x chromium	Homo sapiens	NextSeq 500	29740	2344	13	0	0	0	2791
+SRA728025	SRS3454428	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	31401	848	17	0	1	0	5188
+SRA728025	SRS3454426	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	28536	1416	13	0	1	0	3252
+SRA705190	SRS3306242	Embryonic kidney	10x chromium	Homo sapiens	NextSeq 500	35306	1388	22	0	0	0	9685
+SRA705190	SRS4139635	Embryonic kidney	10x chromium	Homo sapiens	NextSeq 500	29510	1925	15	0	0	0	2451
+SRA705190	SRS4139632	Embryonic kidney	10x chromium	Homo sapiens	NextSeq 500	19676	3068	3	0	0	0	111
+SRA728025	SRS3454427	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	29485	805	18	0	1	0	3649
+SRA728025	SRS3454430	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	29955	964	18	0	1	0	4666
+SRA728025	SRS3454425	Colon	10x chromium	Homo sapiens	Illumina NovaSeq 6000	27685	1085	16	0	1	0	3258
+SRA705190	SRS4139634	Embryonic kidney	10x chromium	Homo sapiens	NextSeq 500	30049	1799	16	0	0	0	3628
+SRA850127	SRS4376745	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	27665	1071	20	0	0	0	4214
+SRA850127	SRS4376744	Hypothalamus	10x chromium	Mus musculus	NextSeq 500	26882	1158	18	0	0	0	2894
+SRA856537	SRS4458843	Unknown	10x chromium	Homo sapiens	Illumina HiSeq 3000	27765	4088	9	0	0	1	772
+SRA856537	SRS4458841	Unknown	10x chromium	Homo sapiens	Illumina HiSeq 3000	27507	3922	7	0	0	1	881
+SRA856537	SRS4458842	Unknown	10x chromium	Homo sapiens	Illumina HiSeq 3000	27424	3936	8	0	0	1	656
+SRA856537	SRS4458844	Unknown	10x chromium	Homo sapiens	Illumina HiSeq 3000	27260	3727	8	0	0	1	661
+SRA850958	SRS4386091	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	22971	841	4	0	1	0	552
+SRA850958	SRS4386088	Stria terminalis (brain)	10x chromium	Mus musculus	Illumina NovaSeq 6000	32621	1734	19	0	1	0	6174
+SRA850958	SRS4386089	Stria terminalis (brain)	10x chromium	Mus musculus	Illumina NovaSeq 6000	32453	1700	20	0	1	0	6090
+SRA850958	SRS4386090	Stria terminalis (brain)	10x chromium	Mus musculus	Illumina NovaSeq 6000	31082	1476	22	0	1	0	5627
+SRA850958	SRS4386092	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	21087	837	3	0	1	0	409
+SRA850958	SRS4386125	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	32946	1810	20	0	1	0	6845
+SRA850958	SRS4386109	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	29229	1073	9	0	1	0	1320
+SRA769148	SRS3747198	Cord blood	10x chromium	Homo sapiens	NextSeq 500	27035	2303	9	0	0	0	3711
+SRA769148	SRS3747193	Cord blood	10x chromium	Homo sapiens	NextSeq 500	26835	2574	7	0	0	0	2540
+SRA850958	SRS4386123	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	31041	1574	19	0	1	0	5183
+SRA850958	SRS4386120	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	30737	1736	17	0	1	0	4090
+SRA769148	SRS3747196	Cord blood	10x chromium	Homo sapiens	NextSeq 500	26469	2763	7	0	0	0	2178
+SRA769148	SRS3747195	Cord blood	10x chromium	Homo sapiens	NextSeq 500	24929	1981	9	0	0	0	2052
+SRA850958	SRS4386117	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	31161	1134	23	0	1	0	5007
+SRA850958	SRS4386119	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	31665	1880	16	0	1	0	4621
+SRA850958	SRS4386110	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	27881	1061	9	0	1	0	1016
+SRA850958	SRS4386116	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	29402	1058	22	0	1	0	4473
+SRA850958	SRS4386126	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	32671	1610	23	0	1	0	8277
+SRA850958	SRS4386122	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	33197	1735	19	0	1	0	7268
+SRA850958	SRS4386101	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	26921	980	5	0	1	0	864
+SRA850958	SRS4386121	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	35325	2050	20	0	1	0	8755
+SRA850958	SRS4386118	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	29833	1123	18	0	1	0	3920
+SRA850958	SRS4386107	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	24366	916	4	0	1	0	654
+SRA850958	SRS4386112	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	32361	1116	12	0	1	0	2311
+SRA850958	SRS4386127	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	31569	1654	18	0	1	0	5458
+SRA769148	SRS3747194	Cord blood	10x chromium	Homo sapiens	NextSeq 500	26867	2654	8	0	0	0	2452
+SRA850958	SRS4386124	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	32344	1775	20	0	1	0	6306
+SRA769148	SRS3747197	Cord blood	10x chromium	Homo sapiens	NextSeq 500	26323	2727	7	0	0	0	2375
+SRA850958	SRS4386111	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	32302	1112	11	0	1	0	2464
+SRA850958	SRS4386113	Substantia nigra	10x chromium	Homo sapiens	Illumina NovaSeq 6000	31483	1085	11	0	1	0	1876
+SRA850958	SRS4386114	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	30857	1438	20	0	1	0	5537
+SRA850958	SRS4386115	Bed nucleus of the stria terminalis	10x chromium	Mus musculus	Illumina NovaSeq 6000	27653	1220	19	0	1	0	2721
+SRA839328	SRS4292911	Sorted myeloid cells	10x chromium	Mus musculus	Illumina HiSeq 4000	23813	1571	18	0	0	0	4280
+SRA757237	SRS3664882	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27110	1841	32	0	0	0	16737
+SRA767234	SRS3741870	Tonsil CD14+ cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	25329	1353	13	0	1	0	2102
+SRA757237	SRS3664881	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	25973	2379	20	0	0	0	7813
+SRA783173	SRS3818732	Epidermal cells	10x chromium	Mus musculus	Illumina HiSeq 2500	29598	2351	15	0	0	0	4872
+SRA783173	SRS3818733	Epidermal cells	10x chromium	Mus musculus	Illumina HiSeq 2500	28221	2992	15	0	0	0	3449
+SRA868105	SRS4566017	Hind limb muscles	10x chromium	Mus musculus	Illumina HiSeq 2500	22621	1434	9	0	0	0	1008
+SRA767245	SRS3741879	Tonsil CD4 T cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	22360	1662	6	0	0	0	870
+SRA774683	SRS3785494	Commensal-specific CD8+ T cells	10x chromium	Mus musculus	Illumina HiSeq 3000	22474	1486	10	0	1	0	3826
+SRA868105	SRS4566019	Hind limb muscles	10x chromium	Mus musculus	Illumina HiSeq 2500	25958	2349	11	0	0	0	1342
+SRA767245	SRS3741880	Tonsil CD4 T cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	23517	1608	9	0	0	0	2184
+SRA774683	SRS3785493	Commensal-specific CD8+ T cells	10x chromium	Mus musculus	Illumina HiSeq 3000	21257	1925	7	0	1	0	1587
+SRA767245	SRS3741878	Tonsil CD4 T cells	10x chromium	Homo sapiens	Illumina HiSeq 2500	23303	1589	7	0	0	0	1218
+SRA774683	SRS3785492	Commensal-specific CD8+ T cells	10x chromium	Mus musculus	Illumina HiSeq 3000	24813	1354	14	0	1	0	9922
+SRA742982	SRS3565409	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	32775	2428	24	0	0	0	9974
+SRA742982	SRS3565397	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	32189	2403	21	0	0	0	7578
+SRA867342	SRS4550171	T cells	drop-seq	Homo sapiens	Illumina HiSeq 2500	20373	1080	7	0	0	0	2655
+SRA742982	SRS3565399	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	31132	2356	25	0	0	0	8269
+SRA742982	SRS3565401	Testis	10x chromium	Mus musculus	Illumina HiSeq 3000	31654	2388	20	0	0	0	9024
+SRA867342	SRS4550172	T cells	drop-seq	Homo sapiens	Illumina HiSeq 2500	25371	1371	12	0	0	0	3865
+SRA867342	SRS4550173	T cells	drop-seq	Homo sapiens	Illumina HiSeq 2500	23788	1349	11	0	0	0	2632
+SRA815866	SRS4088857	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	23610	2183	11	0	1	0	1900
+SRA815866	SRS4088858	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27000	1916	16	0	1	0	6388
+SRA815866	SRS4088856	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27437	2084	20	0	1	0	6660
+SRA815866	SRS4088855	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27310	3072	18	0	1	0	5385
+SRA837885	SRS4281822	Gonadal adipose tissue	10x chromium	Mus musculus	Illumina HiSeq 4000	21482	1590	5	0	0	0	1856
+SRA837885	SRS4281821	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	21160	965	5	0	0	0	1223
+SRA837885	SRS4281819	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	17975	807	7	0	0	0	495
+SRA837885	SRS4281820	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	23130	939	9	0	0	0	2919
+SRA878024	SRS4660847	Lungs	drop-seq	Homo sapiens	Illumina HiSeq 4000	22375	835	9	0	1	0	581
+SRA878024	SRS4660845	Lungs	drop-seq	Homo sapiens	Illumina HiSeq 4000	22209	919	7	0	1	0	671
+SRA643298	SRS2804420	CD45+ dermal immune cells	10x chromium	Mus musculus	Illumina HiSeq 4000	18823	784	11	0	1	0	884
+SRA643298	SRS2804423	CD45+ dermal immune cells	10x chromium	Mus musculus	Illumina HiSeq 4000	18586	725	12	0	1	0	1022
+SRA878024	SRS4660846	Lungs	drop-seq	Homo sapiens	Illumina HiSeq 4000	23224	981	8	0	1	0	918
+SRA643298	SRS2804421	CD45+ dermal immune cells	10x chromium	Mus musculus	Illumina HiSeq 4000	20400	912	6	0	1	0	618
+SRA878024	SRS4660848	Lungs	drop-seq	Homo sapiens	Illumina HiSeq 4000	20133	848	7	0	1	0	653
+SRA877776	SRS4655561	Distal small intestine	10x chromium	Mus musculus	Illumina HiSeq 2500	21529	986	14	0	1	0	5469
+SRA877776	SRS4655562	Distal small intestine	10x chromium	Mus musculus	Illumina HiSeq 2500	22078	1351	14	0	1	0	4079
+SRA877776	SRS4655564	Distal small intestine	10x chromium	Mus musculus	Illumina HiSeq 2500	23560	1117	19	0	1	0	9434
+SRA877776	SRS4655563	Distal small intestine	10x chromium	Mus musculus	Illumina HiSeq 2500	23836	1068	14	0	1	0	7314
+SRA877776	SRS4655560	Distal small intestine	10x chromium	Mus musculus	Illumina HiSeq 2500	22435	862	10	0	1	0	4476
+SRA645056	SRS2819415	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27192	3263	16	0	1	0	1153
+SRA645056	SRS2819414	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	26682	1381	15	0	1	0	4963
+SRA645056	SRS2819417	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	27205	3180	16	0	1	0	1443
+SRA645056	SRS2819412	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	24686	1849	19	0	1	0	950
+SRA645056	SRS2819416	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	25226	2033	11	0	1	0	3714
+SRA645056	SRS2819413	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	25481	1463	15	0	1	0	4161
+SRA868228	SRS4567381	Lung	10x chromium	Mus musculus	NextSeq 500	24584	1263	18	0	1	0	1693
+SRA645056	SRS2819418	Bone marrow	10x chromium	Mus musculus	Illumina HiSeq 4000	23958	1784	11	0	1	0	1591
+SRA868228	SRS4567382	Lung	10x chromium	Mus musculus	NextSeq 500	24392	1334	15	0	1	0	1188
+SRA862468	SRS4512237	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25144	1529	17	0	1	0	1687
+SRA862468	SRS4512239	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25632	1691	21	0	1	0	1632
+SRA862468	SRS4512240	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25110	1649	18	0	1	0	1608
+SRA862468	SRS4512243	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25917	1753	20	0	1	0	1807
+SRA862468	SRS4512238	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	25999	1435	23	0	1	0	2430
+SRA862468	SRS4512242	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	26302	1643	19	0	1	0	2290
+SRA862468	SRS4512241	Lung	10x chromium	Mus musculus	Illumina NovaSeq 6000	24836	1670	17	0	1	0	1390
+SRA751294	SRS3625046	Hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	28489	1785	26	0	0	0	8714
+SRA751294	SRS3625039	Embryonic hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	29605	2850	28	0	0	0	9286
+SRA751294	SRS3625043	Embryonic hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27791	1409	23	0	0	0	6629
+SRA751294	SRS3625041	Embryonic hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27209	1883	28	0	0	0	6094
+SRA751294	SRS3625045	Hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	29341	1964	23	0	0	0	12340
+SRA751294	SRS3625040	Embryonic hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	27720	2003	30	0	0	0	8178
+SRA751294	SRS3625047	Hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	29589	1319	31	0	0	0	10958
+SRA751294	SRS3625044	Hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	29362	2410	34	0	0	0	5287
+SRA751294	SRS3625042	Embryonic hindbrain	10x chromium	Mus musculus	Illumina HiSeq 2500	29531	2159	31	0	0	0	8129
+SRA688150	SRS3161261	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	20032	1488	6	0	0	0	1289
+SRA688150	SRS3161264	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	17913	1139	5	0	0	0	682
+SRA688150	SRS3161265	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	23314	1642	13	0	0	0	4427
+SRA688150	SRS3161281	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	21278	1761	8	0	0	0	1353
+SRA688150	SRS3161262	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	21429	1726	9	0	0	0	1380
+SRA688150	SRS3161263	Lung	10x chromium	Mus musculus	Illumina HiSeq 4000	23416	1806	14	0	0	0	4190
+SRA866994	SRS4545962	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	24865	1314	19	0	1	0	3767
+SRA866994	SRS4545966	Dura mater	10x chromium	Mus musculus	Illumina HiSeq 4000	24929	1239	25	0	1	0	6511
+SRA866994	SRS4545958	Dura mater	10x chromium	Mus musculus	Illumina HiSeq 4000	29097	1519	27	0	1	0	8587
+SRA866994	SRS4545961	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	26219	1557	22	0	1	0	6355
+SRA866994	SRS4545963	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	23199	1426	21	0	1	0	2836
+SRA866994	SRS4545959	Choroid plexus	10x chromium	Mus musculus	Illumina HiSeq 4000	25059	1615	24	0	1	0	4113
+SRA866994	SRS4545965	Dura mater	10x chromium	Mus musculus	Illumina HiSeq 4000	24295	1349	24	0	1	0	4550
+SRA866994	SRS4545964	Brain	10x chromium	Mus musculus	Illumina HiSeq 4000	23721	1462	20	0	1	0	4123
+SRA866994	SRS4545960	Subdural meninges	10x chromium	Mus musculus	Illumina HiSeq 4000	27387	1617	18	0	1	0	6488
+SRA866994	SRS4545967	Choroid plexus	10x chromium	Mus musculus	Illumina HiSeq 4000	22921	1774	22	0	1	0	2287
+SRA815737	SRS4087853	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	23071	3284	7	0	0	0	481
+SRA866994	SRS4545970	Dura mater	10x chromium	Mus musculus	Illumina HiSeq 4000	24795	1345	23	0	1	0	6392
+SRA815737	SRS4087857	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	29438	3841	13	0	0	0	2508
+SRA815737	SRS4087856	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	22007	284	6	0	0	0	638
+SRA866994	SRS4545972	Choroid plexus	10x chromium	Mus musculus	Illumina HiSeq 4000	22911	1796	18	0	1	0	2292
+SRA815737	SRS4087858	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	28851	2382	14	0	0	0	7223
+SRA866994	SRS4545971	Choroid plexus	10x chromium	Mus musculus	Illumina HiSeq 4000	24316	1691	24	0	1	0	4243
+SRA866994	SRS4545969	Dura mater	10x chromium	Mus musculus	Illumina HiSeq 4000	23749	1539	14	0	1	0	5462
+SRA866994	SRS4545968	Choroid plexus	10x chromium	Mus musculus	Illumina HiSeq 4000	22744	1918	16	0	1	0	1767
+SRA815737	SRS4087854	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	23398	3650	7	0	0	0	823
+SRA815737	SRS4087864	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	28160	4953	13	0	0	0	4422
+SRA815737	SRS4087859	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	29031	3042	16	0	0	0	4798
+SRA815737	SRS4087862	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	24197	1836	14	0	0	0	2035
+SRA815737	SRS4087865	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	29024	4674	15	0	0	0	5604
+SRA815737	SRS4087860	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	28832	3092	15	0	0	0	6323
+SRA815737	SRS4087861	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	27700	2891	16	0	0	0	6070
+SRA815737	SRS4087863	Embryo	10x chromium	Mus musculus	Illumina NovaSeq 6000	25368	2048	14	0	0	0	2341
+SRA815737	SRS4087866	\N	10x chromium	Mus musculus	Illumina NovaSeq 6000	26442	2401	14	\N	\N	\N	9945
+SRA815737	SRS4087867	\N	10x chromium	Mus musculus	Illumina NovaSeq 6000	29608	3820	20	\N	\N	\N	4333
