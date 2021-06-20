@@ -1,0 +1,4 @@
+name: pangaodb
+channels:
+  - defaults
+prefix: /home/miguelb/anaconda3/envs/pangaodb
