@@ -48,8 +48,15 @@ conda create -n scdatacuration -f dependencies.yml
 
 Process to download PanglaoDB data and raw data
 
-1. Create the folder and place inside the file py_obtain_tsv.py
-2. Run Panglao_data_download.sh
+1. Getting metadata from https://panglaodb.se/:
+```
+wget https://raw.githubusercontent.com/oscar-franzen/PanglaoDB/master/data/metadata.txt
+wget https://raw.githubusercontent.com/oscar-franzen/PanglaoDB/master/data/clusters_to_number_of_cells.txt
+```
+The other option is run the file Panglao_data_download.sh (replacing the directory with the selected one).
+
+2. Run py_obtain_tsv.py
+You have to run the script inside the folder where the files from panglaodb have been located
 3. Read_tsv.py to read the tsv file
 
 ## Installing the Jupyter Notebook envirnoment
