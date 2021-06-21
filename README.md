@@ -70,8 +70,17 @@ df4.to_csv("PanglaoDB", sep="\t", index=False)
 ```
 The ipynb file is already included inside DataFolder folder
 
-3. Read_tsv.py to read the tsv file
-
+3. Open tsv file
+In your python notebook:
+```
+import pandas as pd
+panglao = pd.read_csv('PanglaoDB', sep='\t')
+panglao
+```
+Example of selection of samples:
+```
+panglao.loc[panglao['Species'] == "Homo sapiens"]
+```
 ## Installing the Jupyter Notebook envirnoment
 
 How we install everything so that it is running...
