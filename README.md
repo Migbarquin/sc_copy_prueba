@@ -38,7 +38,14 @@ conda env export --name scdatacuration > dependencies.yml
 
 ## Set up conda environment from dependencies.yml
 
+If there exists already an environment with this name, we can manually delete it first.
+
+```
+conda remove --name scdatacuration --all
+```
+
 If you want to install the environment including already all dependencies simply run:
+
 
 ```
 conda create -n scdatacuration -f dependencies.yml
