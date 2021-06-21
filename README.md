@@ -55,8 +55,21 @@ wget https://raw.githubusercontent.com/oscar-franzen/PanglaoDB/master/data/clust
 ```
 The other option is run the file Panglao_data_download.sh (replacing the directory with the selected one).
 
-2. Run py_obtain_tsv.py
-You have to run the script inside the folder where the files from panglaodb have been located
+2. Creation of tsv file
+In your python notebook:
+```
+import pandas as pd
+df = pd.read_csv('clusters_to_number_of_cells.txt', header=None, delimiter = ",")
+df.columns = ["SRA accession", "SRS accession", "Cluster index", "Number of cells"]
+l = df.groupby('SRS accession')['Number of cells'].sum()
+df2 = pd.DataFrame(data=l)
+df3 = pd.read_csv('metadata.txt', header=None, delimiter = ",")
+df3.columns = ["SRA accession", "SRS accession", "Tissue origin of the sample", "scRNA-seq protocol","Species","Sequencing instrument","Number of expressed genes","Median number of expressed genes per cell","Number of cell clusters in this sample","Is the sample from a tumor? (1 true otherwise false)","Is the sample from primary adult tissue?","Is the sample from a cell line?"]
+df4 = pd.merge(left=df3, right=df2, left_on='SRS accession', right_on='SRS accession')
+df4.to_csv("PanglaoDB", sep="\t", index=False)
+```
+The ipynib file is already included inside DataFolder folder
+
 3. Read_tsv.py to read the tsv file
 
 ## Installing the Jupyter Notebook envirnoment
