@@ -68,7 +68,7 @@ df3.columns = ["SRA accession", "SRS accession", "Tissue origin of the sample", 
 df4 = pd.merge(left=df3, right=df2, left_on='SRS accession', right_on='SRS accession')
 df4.to_csv("PanglaoDB", sep="\t", index=False)
 ```
-The ipynib file is already included inside DataFolder folder
+The ipynb file is already included inside DataFolder folder
 
 3. Read_tsv.py to read the tsv file
 
